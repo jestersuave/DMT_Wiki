@@ -1,0 +1,34 @@
+{
+  "headers": [
+    "ID",
+    "Name",
+    "Age",
+    "City"
+  ],
+  "rows": [
+    [
+      "1",
+      "Alice",
+      "30",
+      "New York"
+    ],
+    [
+      "2",
+      "Bob",
+      "24",
+      "Paris"
+    ],
+    [
+      "3",
+      "Charlie",
+      "35",
+      "London"
+    ],
+    [
+      "4",
+      "Diana",
+      "28",
+      "Berlin"
+    ]
+  ]
+}
