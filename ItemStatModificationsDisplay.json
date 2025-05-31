@@ -1,0 +1,74 @@
+[
+	{
+		"RowName": "BonusStrWeaponDmg",
+		"IsFloatStatModification": true,
+		"IsCharStat": false,
+		"StatID": 27,
+		"IsPercentage": true,
+		"IsMultiplier": false,
+		"DisplayText": "NSLOCTEXT(\"\", \"ItemStatModificationDisplay_BonusStrWeaponDmg_DisplayText\", \"Strength Weapon Damage +{0}%\")"
+	},
+	{
+		"RowName": "BonusAgiWeaponDmg",
+		"IsFloatStatModification": true,
+		"IsCharStat": false,
+		"StatID": 28,
+		"IsPercentage": true,
+		"IsMultiplier": false,
+		"DisplayText": "NSLOCTEXT(\"[38AFD53A4F5CF3C4E169A8878FE292CC]\", \"A740622544FBCF8FD44A55A3242A5043\", \"Agility Weapon Damage +{0}%\")"
+	},
+	{
+		"RowName": "BonusCarryCapacity",
+		"IsFloatStatModification": true,
+		"IsCharStat": false,
+		"StatID": 29,
+		"IsPercentage": false,
+		"IsMultiplier": false,
+		"DisplayText": "NSLOCTEXT(\"\", \"ItemStatModificationDisplay_BonusCarryCapacity_DisplayText\", \"Carrying Capacity +{0}\")"
+	},
+	{
+		"RowName": "StaminaMax",
+		"IsFloatStatModification": false,
+		"IsCharStat": false,
+		"StatID": 6,
+		"IsPercentage": false,
+		"IsMultiplier": false,
+		"DisplayText": "NSLOCTEXT(\"\", \"ItemStatModificationDisplay_StaminaMax_DisplayText\", \"Stamina +{0}\")"
+	},
+	{
+		"RowName": "HealthMax",
+		"IsFloatStatModification": false,
+		"IsCharStat": false,
+		"StatID": 0,
+		"IsPercentage": false,
+		"IsMultiplier": false,
+		"DisplayText": "NSLOCTEXT(\"[38AFD53A4F5CF3C4E169A8878FE292CC]\", \"A5CFC8D04E97F3A2A9C82E85DAED1BE6\", \"Health +{0}\")"
+	},
+	{
+		"RowName": "BonusConcussiveDmg",
+		"IsFloatStatModification": true,
+		"IsCharStat": false,
+		"StatID": 31,
+		"IsPercentage": true,
+		"IsMultiplier": false,
+		"DisplayText": "NSLOCTEXT(\"[38AFD53A4F5CF3C4E169A8878FE292CC]\", \"36E1CD2246BA4317F3FF5CAE07E85BA8\", \"Concussive Damage +{0}%\")"
+	},
+	{
+		"RowName": "BonusFollowerDmg",
+		"IsFloatStatModification": true,
+		"IsCharStat": false,
+		"StatID": 30,
+		"IsPercentage": true,
+		"IsMultiplier": false,
+		"DisplayText": "NSLOCTEXT(\"[38AFD53A4F5CF3C4E169A8878FE292CC]\", \"CECFA35644A9520A77EE8D820F8172A3\", \"Follower Damage +{0}%\")"
+	},
+	{
+		"RowName": "BonusArmour",
+		"IsFloatStatModification": true,
+		"IsCharStat": false,
+		"StatID": 9,
+		"IsPercentage": false,
+		"IsMultiplier": false,
+		"DisplayText": "NSLOCTEXT(\"[38AFD53A4F5CF3C4E169A8878FE292CC]\", \"E538234C4AE292EDB0A16398398D3EF3\", \"Armour +{0}\")"
+	}
+]

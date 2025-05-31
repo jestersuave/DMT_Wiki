@@ -1,0 +1,38 @@
+[
+	{
+		"RowName": "IronLockpick",
+		"ID_XX": 2709911
+	},
+	{
+		"RowName": "SteelLockpick",
+		"ID_XX": 2709912
+	},
+	{
+		"RowName": "HardenedSteelLockpick",
+		"ID_XX": 2709913
+	},
+	{
+		"RowName": "StarmetalLockpick",
+		"ID_XX": 2709914
+	},
+	{
+		"RowName": "FisticuffWraps",
+		"ID_XX": 2709704
+	},
+	{
+		"RowName": "ClaimToken",
+		"ID_XX": 2709944
+	},
+	{
+		"RowName": "Eldritchforge",
+		"ID_XX": 2709989
+	},
+	{
+		"RowName": "EldritchBench",
+		"ID_XX": 2710035
+	},
+	{
+		"RowName": "EldritchDust",
+		"ID_XX": 2709523
+	}
+]

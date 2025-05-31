@@ -1,0 +1,135 @@
+[
+	{
+		"RowName": "2709000",
+		"TemplateID": "DMT_Mods",
+		"Type": "Int",
+		"StatID": 8,
+		"Value": 999999
+	},
+	{
+		"RowName": "2709001",
+		"TemplateID": "DMT_Mods",
+		"Type": "Float",
+		"StatID": 4,
+		"Value": 10
+	},
+	{
+		"RowName": "2709002",
+		"TemplateID": "DMT_Mods",
+		"Type": "Float",
+		"StatID": 5,
+		"Value": 10
+	},
+	{
+		"RowName": "2709003",
+		"TemplateID": "DMT_Mods",
+		"Type": "Int",
+		"StatID": 13,
+		"Value": 6
+	},
+	{
+		"RowName": "2709004",
+		"TemplateID": "DMT_Mods",
+		"Type": "Int",
+		"StatID": 0,
+		"Value": 200
+	},
+	{
+		"RowName": "2709005",
+		"TemplateID": "DMT_Mods",
+		"Type": "Float",
+		"StatID": 11,
+		"Value": 1
+	},
+	{
+		"RowName": "2709006",
+		"TemplateID": "DMT_Mods",
+		"Type": "Int",
+		"StatID": 12,
+		"Value": 0
+	},
+	{
+		"RowName": "2709007",
+		"TemplateID": "DMT_Mods",
+		"Type": "Float",
+		"StatID": 6,
+		"Value": 900
+	},
+	{
+		"RowName": "2709008",
+		"TemplateID": "DMTCraft Fuel Cost 3",
+		"Type": "Float",
+		"StatID": 2,
+		"Value": 2
+	},
+	{
+		"RowName": "2709009",
+		"TemplateID": "DMTCraft Less Mats 2",
+		"Type": "Float",
+		"StatID": 1,
+		"Value": 0.25
+	},
+	{
+		"RowName": "2709010",
+		"TemplateID": "DMTCraft Speed 5",
+		"Type": "Float",
+		"StatID": 0,
+		"Value": 6
+	},
+	{
+		"RowName": "2709011",
+		"TemplateID": "DMT_Mods_7Sins",
+		"Type": "Int",
+		"StatID": 8,
+		"Value": 999999
+	},
+	{
+		"RowName": "2709012",
+		"TemplateID": "DMT_Mods_7Sins",
+		"Type": "Float",
+		"StatID": 4,
+		"Value": 10
+	},
+	{
+		"RowName": "2709013",
+		"TemplateID": "DMT_Mods_7Sins",
+		"Type": "Float",
+		"StatID": 5,
+		"Value": 10
+	},
+	{
+		"RowName": "2709014",
+		"TemplateID": "DMT_Mods_7Sins",
+		"Type": "Int",
+		"StatID": 13,
+		"Value": 6
+	},
+	{
+		"RowName": "2709015",
+		"TemplateID": "DMT_Mods_7Sins",
+		"Type": "Int",
+		"StatID": 0,
+		"Value": 250
+	},
+	{
+		"RowName": "2709016",
+		"TemplateID": "DMT_Mods_7Sins",
+		"Type": "Float",
+		"StatID": 11,
+		"Value": 1
+	},
+	{
+		"RowName": "2709017",
+		"TemplateID": "DMT_Mods_7Sins",
+		"Type": "Int",
+		"StatID": 12,
+		"Value": 0
+	},
+	{
+		"RowName": "2709018",
+		"TemplateID": "DMT_Mods_7Sins",
+		"Type": "Float",
+		"StatID": 6,
+		"Value": 1200
+	}
+]

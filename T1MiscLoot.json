@@ -1,0 +1,33 @@
+[
+	{
+		"RowName": "2709000",
+		"UseWeightTable": false,
+		"UsePercentTable": false,
+		"Table":
+		{
+			"DataTable": "None",
+			"RowName": "None"
+		},
+		"ItemID": 2709520,
+		"Min": 3,
+		"Max": 8,
+		"Weight": 1,
+		"MinDurability": 1,
+		"MaxDurability": 1,
+		"RequiredEventTag": "None",
+		"RequiredTags":
+		{
+			"TokenStreamVersion": 0,
+			"TagDictionary": [],
+			"QueryTokenStream": [],
+			"UserDescription": "",
+			"AutoDescription": ""
+		},
+		"IntStatModifier":
+		{
+		},
+		"FloatStatModifier":
+		{
+		}
+	}
+]

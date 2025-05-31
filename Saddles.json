@@ -1,0 +1,47 @@
+[
+	{
+		"RowName": "2709424",
+		"TargetCharacter": "/Game/Characters/NPCs/Hooved_Wild/Blueprints/BP_NPC_Mounts_Horse.BP_NPC_Mounts_Horse_C",
+		"RiderEnduranceDamageModifier": 0,
+		"MountEnduranceDamageModifier": 0.30000001192092896,
+		"WalkSpeed": 250,
+		"RunSpeed": 800,
+		"SprintSpeed": 1500,
+		"SprintEnduranceDrain": 10,
+		"SwimEnduranceDrain": 0,
+		"EnduranceRegeneration": 150,
+		"AccelerationProfileID": "Horse_Travel",
+		"HideMane": false,
+		"HideTail": false
+	},
+	{
+		"RowName": "2709425",
+		"TargetCharacter": "/Game/Characters/NPCs/Hooved_Wild/Blueprints/BP_NPC_Mounts_Horse.BP_NPC_Mounts_Horse_C",
+		"RiderEnduranceDamageModifier": 0,
+		"MountEnduranceDamageModifier": 0.40000000596046448,
+		"WalkSpeed": 250,
+		"RunSpeed": 800,
+		"SprintSpeed": 1400,
+		"SprintEnduranceDrain": 16,
+		"SwimEnduranceDrain": 0,
+		"EnduranceRegeneration": 100,
+		"AccelerationProfileID": "Horse_Fast",
+		"HideMane": false,
+		"HideTail": false
+	},
+	{
+		"RowName": "2709426",
+		"TargetCharacter": "/Game/Characters/NPCs/Hooved_Wild/Blueprints/BP_NPC_Mounts_Horse.BP_NPC_Mounts_Horse_C",
+		"RiderEnduranceDamageModifier": 0,
+		"MountEnduranceDamageModifier": 0.60000002384185791,
+		"WalkSpeed": 250,
+		"RunSpeed": 750,
+		"SprintSpeed": 1300,
+		"SprintEnduranceDrain": 14,
+		"SwimEnduranceDrain": 0,
+		"EnduranceRegeneration": 120,
+		"AccelerationProfileID": "Horse_Slow",
+		"HideMane": false,
+		"HideTail": false
+	}
+]

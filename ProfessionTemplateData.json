@@ -1,0 +1,2481 @@
+[
+	{
+		"RowName": "Keeper_1",
+		"ThrallType": 0,
+		"ThrallTier": 1,
+		"ThrallProfession": "Keeper",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [ 2710035, 89103, 18504, 18512, 89201, 18523, 89301, 18512, 89401, 89001, 89103, 18504, 18539, 18543, 18544, 18545, 18546, 89302, 89303, 89304, 18526, 18527, 18528, 0 ],
+		"StatTemplate": "Artisan Base",
+		"StatModifierTemplate": [
+			"Craft Speed 1",
+			"Tier 1 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/UI/Textures/Icons/icon_thrall_torchlighter.icon_thrall_torchlighter",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Keeper_2",
+		"ThrallType": 0,
+		"ThrallTier": 2,
+		"ThrallProfession": "Keeper",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [ 2710035, 89103, 18504, 18512, 89201, 18523, 89301, 18512, 89401, 89001, 89103, 18504, 18539, 18543, 18544, 18545, 18546, 89302, 89303, 89304, 18526, 18527, 18528, 0 ],
+		"StatTemplate": "Artisan Base",
+		"StatModifierTemplate": [
+			"Craft Speed 2",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T2"
+		],
+		"Icon": "/Game/UI/Textures/Icons/icon_thrall_torchlighter.icon_thrall_torchlighter",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Keeper_3",
+		"ThrallType": 0,
+		"ThrallTier": 3,
+		"ThrallProfession": "Keeper",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [ 18512, 3710, 8299, 7299, 6299, 5299, 89401, 89402, 2710035, 18509, 18512, 18514, 18523, 18515, 18517, 18525, 89000, 0, 89301, 88999, 2710035, 89103, 18504, 18512, 89201, 18523, 89301, 18512, 89401, 89001, 89103, 18504, 18539, 18543, 18544, 18545, 18546, 89302, 89303, 89304, 18526, 18527, 18528, 0 ],
+		"StatTemplate": "Artisan Base",
+		"StatModifierTemplate": [
+			"Craft Speed 3",
+			"Tier 3 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T3"
+		],
+		"Icon": "/Game/UI/Textures/Icons/icon_thrall_torchlighter.icon_thrall_torchlighter",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Keeper_4",
+		"ThrallType": 0,
+		"ThrallTier": 4,
+		"ThrallProfession": "Keeper",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [ 18512, 3710, 8299, 7299, 6299, 5299, 89401, 89402, 2710035, 18509, 18512, 18514, 18523, 18515, 18517, 18525, 89000, 0, 89301, 88999, 2710035, 89103, 18504, 18512, 89201, 18523, 89301, 18512, 89401, 89001, 89103, 18504, 18539, 18543, 18544, 18545, 18546, 89302, 89303, 89304, 18526, 18527, 18528, 0 ],
+		"StatTemplate": "Artisan Base",
+		"StatModifierTemplate": [
+			"Craft Speed 4",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T4"
+		],
+		"Icon": "/Game/UI/Textures/Icons/icon_thrall_torchlighter.icon_thrall_torchlighter",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Brewer_4",
+		"ThrallType": 0,
+		"ThrallTier": 4,
+		"ThrallProfession": "Brewer",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [ 18504 ],
+		"StatTemplate": "Taskmaster Base",
+		"StatModifierTemplate": [
+			"DMTCraft Fuel Cost 3",
+			"DMTCraft Speed 5",
+			"Tier 4 Mods",
+			"DMTCraft Less Mats 2"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T4"
+		],
+		"Icon": "/Game/UI/Textures/Icons/icon_thrall_alchemist.icon_thrall_alchemist",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Pet_KappaKing_DMT",
+		"ThrallType": 2710455,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/UI/Textures/Icons/icon_pet_Kappa_King.icon_pet_Kappa_King",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Pet_BearAlpha_DMT",
+		"ThrallType": 2710456,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/UI/Textures/Icons/icon_pet_Bear_Alpha.icon_pet_Bear_Alpha",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Pet_KomodoAlpha_DMT",
+		"ThrallType": 2710457,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_komodowhite.icon_komodowhite",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Pet_ReptileKomodo_DMT",
+		"ThrallType": 2710458,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_komodo.icon_komodo",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Pet_spitlizardAlpha_DMT",
+		"ThrallType": 2710460,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_spitlizardalpha.icon_spitlizardalpha",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Pet_Reptilespitlizard_DMT",
+		"ThrallType": 2710459,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_spitlizard.icon_spitlizard",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_dragon1_DMT",
+		"ThrallType": 2710461,
+		"ThrallTier": 3,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_dragon_green.icon_dragon_green",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_dragon2_DMT",
+		"ThrallType": 2710462,
+		"ThrallTier": 3,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_dragon_red.icon_dragon_red",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_dragon3_DMT",
+		"ThrallType": 2710463,
+		"ThrallTier": 3,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_dragon_white.icon_dragon_white",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_cobra_DMT",
+		"ThrallType": 2710464,
+		"ThrallTier": 3,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_cobra.icon_cobra",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_childofdagon1_DMT",
+		"ThrallType": 2710465,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_dagonblue.icon_dagonblue",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_childofdagon2_DMT",
+		"ThrallType": 2710466,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_dagongreen.icon_dagongreen",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_halfchildofdagon1_DMT",
+		"ThrallType": 2710467,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_humanvar1.icon_humanvar1",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_elk_DMT",
+		"ThrallType": 2710468,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_elk.icon_elk",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_elkking_DMT",
+		"ThrallType": 2710469,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_elkking.icon_elkking",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_goat_DMT",
+		"ThrallType": 2710470,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_goat.icon_goat",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_greatergoat_DMT",
+		"ThrallType": 2710471,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_goatboss.icon_goatboss",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_imp_DMT",
+		"ThrallType": 2710472,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_imp.icon_imp",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_impking_DMT",
+		"ThrallType": 2710473,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_impking.icon_impking",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_reptilerhino_DMT",
+		"ThrallType": 2710474,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_repbeast1.icon_repbeast1",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_greaterreptilerhino_DMT",
+		"ThrallType": 2710475,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_repbeast2.icon_repbeast2",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_sandstormbeast_DMT",
+		"ThrallType": 2710476,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_sandbeast.icon_sandbeast",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_greatersandstormbeast_DMT",
+		"ThrallType": 2710477,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_sandbeast.icon_sandbeast",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_halfchildofdagon2_DMT",
+		"ThrallType": 2710478,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_humanvar2.icon_humanvar2",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "Herald_4",
+		"ThrallType": 2710479,
+		"ThrallTier": 4,
+		"ThrallProfession": "Herald",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [ 89901, 89911, 89912, 89913, 89919, 18514, 19001, 19002, 19003, 80945, 80946, 80947, 80948, 80949, 80950, 89971, 89972, 89973, 89951, 89952, 89953, 89976, 89977, 89978, 89961, 89962, 89963 ],
+		"StatTemplate": "Fighter Base",
+		"StatModifierTemplate": [
+			"Craft Fuel Cost 2",
+			"Craft Speed 5",
+			"Tier 4 Mods",
+			"Fighter 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T4"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons3/icon_thrall_herald.icon_thrall_herald",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_serpentman1_DMT",
+		"ThrallType": 2710480,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_petserpentman1.icon_petserpentman1",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "pet_serpentman2_DMT",
+		"ThrallType": 2710481,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons2/icon_petserpentman2.icon_petserpentman2",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedBatBlack",
+		"ThrallType": 2711566,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_1.icon_1",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedBatBoss",
+		"ThrallType": 2711567,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_2.icon_2",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedBatFlesh",
+		"ThrallType": 2711568,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_3.icon_3",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedBirdBlue",
+		"ThrallType": 2711569,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_4.icon_4",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedBirdBoss",
+		"ThrallType": 2711570,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_5.icon_5",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedBirdWhite",
+		"ThrallType": 2711571,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_6.icon_6",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedDemonSpiderBlack",
+		"ThrallType": 2711572,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_7.icon_7",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedDemonSpiderBoss",
+		"ThrallType": 2711573,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_8.icon_8",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedDemonSpiderHatchling",
+		"ThrallType": 2711574,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_9.icon_9",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedDemonSpiderYellow",
+		"ThrallType": 2711575,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_10.icon_10",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedDrownedBlue",
+		"ThrallType": 2711576,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_11.icon_11",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedDrownedBoss",
+		"ThrallType": 2711577,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_12.icon_12",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedDrownedGreen",
+		"ThrallType": 2711578,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_13.icon_13",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedDrownedMidrange",
+		"ThrallType": 2711579,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_14.icon_14",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedFiend",
+		"ThrallType": 2711580,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_15.icon_15",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedFiend_Boss",
+		"ThrallType": 2711581,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_16.icon_16",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedFiend_var2",
+		"ThrallType": 2711582,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_17.icon_17",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedGoblinBoss",
+		"ThrallType": 2711583,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_18.icon_18",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedGoblinFleshRanged",
+		"ThrallType": 2711584,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_19.icon_19",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedGoblinFlesh",
+		"ThrallType": 2711585,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_20.icon_20",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedGoblinRed",
+		"ThrallType": 2711586,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_21.icon_21",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedGoblinScaly",
+		"ThrallType": 2711587,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_21.icon_21",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedHarpyBoss",
+		"ThrallType": 2711588,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_22.icon_22",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedHarpyFlesh",
+		"ThrallType": 2711589,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_23.icon_23",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedHarpyWhite",
+		"ThrallType": 2711590,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_24.icon_24",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedSerpentBoss",
+		"ThrallType": 2711591,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_25.icon_25",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedSerpentBrute",
+		"ThrallType": 2711592,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_26.icon_26",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedSerpentGrey",
+		"ThrallType": 2711593,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_26.icon_26",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedSerpentHypno",
+		"ThrallType": 2711594,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_26.icon_26",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedSerpentMen",
+		"ThrallType": 2711595,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_27.icon_27",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedSerpentMen_Blue",
+		"ThrallType": 2711596,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_28.icon_28",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedWerewolfBoss",
+		"ThrallType": 2711597,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_29.icon_29",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedWerewolfBrute",
+		"ThrallType": 2711598,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_30.icon_30",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_DevolvedWerewolfSlasher",
+		"ThrallType": 2711599,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_30.icon_30",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_AvatarOfBokrug",
+		"ThrallType": 2711631,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a1.icon_a1",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_BloodDefiler",
+		"ThrallType": 2711632,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a2.icon_a2",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_BloodlessHusk",
+		"ThrallType": 2711633,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a3rea.icon_a3rea",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_BloodMoonBeast_Albino",
+		"ThrallType": 2711634,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a4.icon_a4",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_BloodMoonBeast_Flesh",
+		"ThrallType": 2711635,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a3.icon_a3",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Doel_Red",
+		"ThrallType": 2711636,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a5.icon_a5",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Doel_White",
+		"ThrallType": 2711637,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a6.icon_a6",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Ghoul_Bloodied",
+		"ThrallType": 2711638,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a7.icon_a7",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Ghoul_Flesh",
+		"ThrallType": 2711639,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a8.icon_a8",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Krllyandian",
+		"ThrallType": 2711640,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a9.icon_a9",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Krllyandian_var",
+		"ThrallType": 2711641,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a10.icon_a10",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Lloigor_BlueCyan",
+		"ThrallType": 2711642,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a11.icon_a11",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Lloigor_RedFlesh",
+		"ThrallType": 2711643,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a12.icon_a12",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_MiGo",
+		"ThrallType": 2711644,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a13.icon_a13",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_MiGo_var",
+		"ThrallType": 2711645,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a14.icon_a14",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_MiGoExperiment",
+		"ThrallType": 2711646,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a15.icon_a15",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_ShaggaiHorror_Flesh",
+		"ThrallType": 2711647,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a16.icon_a16",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_ShaggaiHorror_Yellow",
+		"ThrallType": 2711648,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a17.icon_a17",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_ShaggaiHuntress_DarkBluePurple",
+		"ThrallType": 2711649,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a18.icon_a18",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_ShaggaiHuntress_RedFlesh",
+		"ThrallType": 2711650,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a19.icon_a19",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Yakith",
+		"ThrallType": 2711651,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a20.icon_a20",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_SpiderOfLeng",
+		"ThrallType": 2711652,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a21.icon_a21",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_TchoTcho_Lama",
+		"ThrallType": 2711653,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a22.icon_a22",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_TchoTcho_Orange",
+		"ThrallType": 2711654,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a23.icon_a23",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_TchoTcho_Red",
+		"ThrallType": 2711655,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a24.icon_a24",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_ThunnHa_Archer",
+		"ThrallType": 2711656,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a25.icon_a25",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_ThunnHa_Chieftain",
+		"ThrallType": 2711657,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a26.icon_a26",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_ThunnHa_Normal",
+		"ThrallType": 2711658,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_a27.icon_a27",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Bigfoot",
+		"ThrallType": 2711664,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_gullah1.icon_gullah1",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Bigfoot_Black",
+		"ThrallType": 2711665,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_gullah2.icon_gullah2",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Bison",
+		"ThrallType": 2711666,
+		"ThrallTier": 2,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 2 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_bull.icon_bull",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Wildlife_Siptah_Bison_Alpha",
+		"ThrallType": 2711667,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/Mods/DungeonMasterTools/Icons4/icon_bull.icon_bull",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	},
+	{
+		"RowName": "DMT_Pet_Zorse",
+		"ThrallType": 2711668,
+		"ThrallTier": 4,
+		"ThrallProfession": "Fighter",
+		"ThrallGroup": "Warrior",
+		"KnownCombos": [],
+		"BonusRecipes": [],
+		"CraftingGroups": [],
+		"StatTemplate": "0",
+		"StatModifierTemplate": [
+			"None",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T1"
+		],
+		"Icon": "/Game/UI/Textures/Icons/Icon_horse_dapplegrey.Icon_horse_dapplegrey",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		},
+		"NeedsProfile": "None",
+		"NeedsComponentClass": "/Game/Systems/AI/Settlement/Needs/BP_AC_AINeeds.BP_AC_AINeeds_C"
+	}
+]

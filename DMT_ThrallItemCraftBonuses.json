@@ -1,0 +1,30 @@
+[
+	{
+		"RowName": "1",
+		"Profession": "Keeper",
+		"TierBonuses": [
+			{
+				"Tier": 4,
+				"Bonuses":
+				{
+					"IntStats": [
+						"DamageHealthLight_OnHit",
+						"DamageHealthHeavy_OnHit",
+						"DamageConcussiveLightOnHit",
+						"DamageConcussiveHeavyOnHit"
+					],
+					"IntStats_Bonuses": [ 1.2999999523162842, 1.2999999523162842, 1.2999999523162842, 1.2999999523162842 ],
+					"FloatStats": [
+						"ArmorPen",
+						"MaxDurability",
+						"CurrentDurability",
+						"EncumbranceWeight"
+					],
+					"FloatStats_Bonuses": [ 1.1000000238418579, 1.2999999523162842, 1.2999999523162842, 0.5 ]
+				}
+			}
+		],
+		"Specialization": "",
+		"BonusDescription": ""
+	}
+]

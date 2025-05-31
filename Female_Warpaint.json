@@ -1,0 +1,310 @@
+[
+	{
+		"RowName": "2710452",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_survival.T_human_warpaint_face_survival'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_survival.T_human_f_warpaint_body_survival'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_survival.T_human_f_warpaint_hands_survival'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710358",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_blackHand.T_human_warpaint_face_blackHand'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_blackHand.T_human_f_warpaint_body_blackHand'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_blackHand.T_human_f_warpaint_hands_blackHand'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710359",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_cimmerian.T_human_warpaint_face_cimmerian'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_cimmerian.T_human_f_warpaint_body_cimmerian'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "None",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710360",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_darfari.T_human_warpaint_face_darfari'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_darfari.T_human_f_warpaint_body_darfari'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "None",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710361",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_dogsOfTheDesert.T_human_warpaint_face_dogsOfTheDesert'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_dogsOfTheDesert.T_human_f_warpaint_body_dogsOfTheDesert'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_dogsOfTheDesert.T_human_f_warpaint_hands_dogsOfTheDesert'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710443",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_frostGiant.T_human_warpaint_face_frostGiant'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_frostGiant.T_human_f_warpaint_body_frostGiant'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_frostGiant.T_human_f_warpaint_hands_frostGiant'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710444",
+		"Face":
+		{
+			"DiffuseTexture": "None",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_relicHunters.T_human_f_warpaint_body_relicHunters'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "None",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710445",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_vanir.T_human_warpaint_face_vanir'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_vanir.T_human_f_warpaint_body_vanir'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "None",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710446",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_strength.T_human_warpaint_face_strength'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_strength.T_human_f_warpaint_body_strength'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_strength.T_human_f_warpaint_hands_strength'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710447",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_agility.T_human_warpaint_face_agility'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_agility.T_human_f_warpaint_body_agility'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_agility.T_human_f_warpaint_hands_agility'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710448",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_vitality.T_human_warpaint_face_vitality'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_vitality.T_human_f_warpaint_body_vitality'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_vitality.T_human_f_warpaint_hands_vitality'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710449",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_accuracy.T_human_warpaint_face_accuracy'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_accuracy.T_human_f_warpaint_body_accuracy'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_accuracy.T_human_f_warpaint_hands_accuracy'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710450",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_grit.T_human_warpaint_face_grit'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_grit.T_human_f_warpaint_body_grit'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_grit.T_human_f_warpaint_hands_grit'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	},
+	{
+		"RowName": "2710451",
+		"Face":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_warpaint_face_encumbrance.T_human_warpaint_face_encumbrance'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Body":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_body_encumbrance.T_human_f_warpaint_body_encumbrance'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"Hands":
+		{
+			"DiffuseTexture": "Texture2D'/Game/Characters/humans/textures/warpaint/T_human_f_warpaint_hands_encumbrance.T_human_f_warpaint_hands_encumbrance'",
+			"NormalTexture": "None",
+			"RequiredFeats": []
+		},
+		"RequiredFeats": []
+	}
+]

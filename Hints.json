@@ -1,0 +1,344 @@
+[
+	{
+		"RowName": "49",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"A87C502041D3B75864CBBEB599D97797\", \"If you hold your breath for more than six hours, you are dead.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "50",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"28DA6A4B4621223EEB30AC9EB14850AA\", \"Statistically, almost 90% of Conan Exiles players are human.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "51",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"CF0432C0490D2F6CFD948AB9531C8924\", \"Repeating the words \\\"Fifty Sixty Ninety\\\" ten times in a row is a sign of boredom.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "52",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"34F01E49421CFD92980B7589198CCE2A\", \"Humperdoo for president.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "53",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"0DEEC7FF4CD5C55064EC528BA66DB978\", \"Hi, mom!\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "54",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"6429DF7A471F526048984BBD9C550124\", \"I like you.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "55",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"5E931A1C4D86116D7208F38B75ECB5D8\", \"Rousch + cucumbers = true\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "56",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"E460F72242650A5E329FCF92F44F3D27\", \"Say what you will about Hitler - but he DID kill Hitler.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "57",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"B2258E854C9DF69A8930AAB732C23C80\", \"If you equip Bessie\\'s Bow and the Jedias greatsaber at the same time, you have cheated.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "58",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"ED3EF62D47BFC1B79C4669B0CFBE532C\", \"Thanks to Chepi for testing this mod.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "59",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"6E01B3D84E3BB63DD9B2D3973CB9457C\", \"DMTools is sponsored by Ditcher, Quick & Hyde - Divorce Lawyers\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "60",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"48D0D1C24C2FF66297A54DB7144A0172\", \"Presented in Smell-o-Vision\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "61",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"6F8A4E1D40397CECDFF492B1ACC3A733\", \"Velcro is a rip-off\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "62",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"64A88C404FF16D5290D30FAC3624A0D1\", \"Humperdoo approved\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "63",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"4E5517AC4A854B37114C2095596EF6E0\", \"Special thanks to Epi, Rousch, Chepi for all the support, help and feedback\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "64",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"71DE7822416F3304C34A789DB9023DA1\", \"You can do it if you put your mind to it. Unless you can\\'t.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "65",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"AF5D82104B796D393CAF708CA9AEDA3F\", \"Drive carefully\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "66",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"D55DF9C94CAB60E09D1EC8AAE2BF8FF1\", \"Don\\'t be a d-bag, or the admin on this server will cut off your fingers one by one\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "67",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"956AE3294467BB0D3455A5A061F1C5F0\", \"This loading screen was helpfully provided by the CIA.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "68",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"0CCCF88E40AEE0A79EF1EDB868B5D967\", \"Best played with Pippi installed\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "69",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"D3E719E147CAD496F07E6E99232B6404\", \"Is that a transmog in your pocket or are you just happy to see me?\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "70",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"93A74C7A486C2C71EFE98096199754BA\", \"Items for days, bruh!\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "71",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"9A659BC6402EC12CB7B7B58940F31B49\", \"I love you.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "72",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"E88B003247D2B5E6D55D97AD312F4391\", \"Happiness is for ever - butter only lasts for hours.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "73",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"77020987488CB3B56555AE998F7550A5\", \"4 8 15 16 23 42\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "74",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"E6321FB6457218BCD592E6B6E1E3426A\", \"Systems failure - please undress.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "75",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"394047FE4025FD8706DA04963BA61405\", \"Still loading...\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "76",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"484AB65F44CAF9D319544294BA016A09\", \"Stopped loading - just for the hell of it.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "77",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"BD8FD90D47292ED93BB0BBBFECA5673A\", \"Formatting C:\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "78",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"D54522CE46E1CD6425EFADAAB49BA009\", \"Uninstalling Windows...\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "79",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"D8D72B07425AB8CA0A855AB0F4B8ECA1\", \"Goddamnit, Darmok!\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "80",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"890581A84A9EFD7B0535A7A9D5CD6420\", \"Your ad goes here!\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "81",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"2FADB00F416154BA56170D933753917E\", \"Be Kind.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "82",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"C23F684C4658C6041CC7A7BF9C035F05\", \"It\\'s science! Except it isn\\'t!\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "83",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"6D9D42E14F52CDC23221C3B656EECDDA\", \"Best enjoyed in the company of naked lemurs.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "84",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"C62EC4C54421921FD02F8F9C8909CB6F\", \"Could not connect to server. Not that I\\'m even trying.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "85",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"E8ADAACC48C8B3F4BD0F7B81CFA2286E\", \"I know what you did last summer.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "86",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"17E85B5A47E748D92C1657A8066A5E5D\", \"You fans are the best\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "87",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"83795FF3434B373B305D6C89199EA387\", \"If you can\\'t beat them, fry them\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "88",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"AACBD9C84F5879DD9861F99113B2370F\", \"Built with love and laziness\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "89",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"90E33E304D09201FDB20BD910E451822\", \"[censored]\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "90",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"13DF43BF4437CDEAD0C36EA4137841B3\", \"I\\'m standing right behind you\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "91",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"ACD97DC44CAFBEFB10BC96BA53931AA5\", \"Version Control is for hippies\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "92",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"5EF2FFDA48D2F94F6538E98F2E721D50\", \"Thralls wants to be punished. Not kinkshaming or anything.\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "93",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"33DC2CB749757ED8A219588D6C0160D9\", \"That\\'s the spirit!\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "94",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"A3B1BEEC466A0D41C0C987A7C32B904F\", \"Joshtech for president\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "95",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"746D6ED04071EB833A08B5A4C62D3259\", \"Savage Wilds is cool\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "96",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"6CA7E29A433399D6CD3D7A8DC610F132\", \"Emberlight is cool\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "97",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"E13E1E8840B7656F323D1DAB512BE00B\", \"Savage steel is cool\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "98",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"AEAC4615403E38E5E6ACED8B73225645\", \"Sibercat doesn\\'t really exist\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "99",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"99AE8AA24F21BB34B1D33A99D74A0911\", \"Northern Timber is cool\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "100",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"388DF7E54ED344149980DB88F50C0A99\", \"Brad Pitt had nothing to do with this mod\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "101",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"B0144BE84840025CC5068EBD5F7FF58A\", \"Existence is futile\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "102",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"A53953ED48C7A011A6E4EC9C4658C740\", \"Where are all the lazer eggs?!\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "103",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"488F21EF4EA4B140BC211882704387E8\", \"This loading tip is very unhelpful\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "104",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"2E53310646F7B5BCB7E158AAAED68C84\", \"Deleting user profile\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	},
+	{
+		"RowName": "105",
+		"HintDescription": "NSLOCTEXT(\"[482BE04644140F1235CDAD8ECD752823]\", \"F87BD8DF420A0F4F9C06D2825A3C926B\", \"Made by hamsters\")",
+		"Platform": 0,
+		"MapRestrictions": []
+	}
+]

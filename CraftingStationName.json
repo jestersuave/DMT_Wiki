@@ -1,0 +1,37 @@
+[
+	{
+		"RowName": "2709989",
+		"StationName": "NSLOCTEXT(\"[EF1E5CDF400C5CF99A57D0A7AA86E269]\", \"A4E4516D40FBA9EE515AD9865D7675DD\", \"Eldritch forge\")",
+		"StationIconOverlay": "/Game/Mods/DungeonMasterTools/Icons2/icon_eldritch.icon_eldritch",
+		"bUseUniqueCraftedAtMessage": false,
+		"UniqueCraftedAtMessage": ""
+	},
+	{
+		"RowName": "2710035",
+		"StationName": "NSLOCTEXT(\"[EF1E5CDF400C5CF99A57D0A7AA86E269]\", \"5ABA1A8F4A93EDB8B741D2965AB4624F\", \"Eldritch Workbench\")",
+		"StationIconOverlay": "/Game/Mods/DungeonMasterTools/Icons2/icon_eldritchbench.icon_eldritchbench",
+		"bUseUniqueCraftedAtMessage": false,
+		"UniqueCraftedAtMessage": ""
+	},
+	{
+		"RowName": "2709092",
+		"StationName": "NSLOCTEXT(\"[EF1E5CDF400C5CF99A57D0A7AA86E269]\", \"24EB92D54A616276DD55F296D86924AD\", \"Experimental Blacksmith\\'s Bench\")",
+		"StationIconOverlay": "/Game/UI/Textures/Icons/icon_improved_blacksmiths_bench.icon_improved_blacksmiths_bench",
+		"bUseUniqueCraftedAtMessage": false,
+		"UniqueCraftedAtMessage": ""
+	},
+	{
+		"RowName": "0",
+		"StationName": "NSLOCTEXT(\"[EF1E5CDF400C5CF99A57D0A7AA86E269]\", \"F7E5B54046AE21448A1B4AB64FF84DEB\", \"Handcrafted\")",
+		"StationIconOverlay": "/Game/UI/Textures/GUIs/Map/T_Map_Icon_camp_black_hand.T_Map_Icon_camp_black_hand",
+		"bUseUniqueCraftedAtMessage": false,
+		"UniqueCraftedAtMessage": ""
+	},
+	{
+		"RowName": "2711530",
+		"StationName": "NSLOCTEXT(\"[EF1E5CDF400C5CF99A57D0A7AA86E269]\", \"54B9BC7E4983D2E2B031ECBB0216C966\", \"Rare Fish Trap\")",
+		"StationIconOverlay": "/Game/UI/Textures/Icons/icon_Fishtrap_improved.icon_Fishtrap_improved",
+		"bUseUniqueCraftedAtMessage": false,
+		"UniqueCraftedAtMessage": ""
+	}
+]

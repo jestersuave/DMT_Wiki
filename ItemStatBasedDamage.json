@@ -1,0 +1,191 @@
+[
+	{
+		"RowName": "Sword_1h",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Mace_2h",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Axe_2h",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Sword_2h",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Axe_1h",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Mace_1h",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Truncheon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Spear_2h",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Katana",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "Bow",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "Spear_1h",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "Claws",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "Daggers",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "Sword_Short",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "Focus",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.33000001311302185,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.33000001311302185
+	},
+	{
+		"RowName": "Tools",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.25,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.25
+	},
+	{
+		"RowName": "DualSword",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "DualAxe",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "Unarmed",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "NPCWeapon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0
+	},
+	{
+		"RowName": "AgilityWeapon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "StrengthWeapon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 1,
+		"Stat2ID": 19,
+		"Stat2DamageModifierValue": 0.10000000149011612
+	},
+	{
+		"RowName": "HealthWeapon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 14,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "GritWeapon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 15,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "AuthorityWeapon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 27,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "ExpertiseWeapon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 16,
+		"Stat2DamageModifierValue": 1
+	},
+	{
+		"RowName": "LevelWeapon",
+		"Stat1ID": 17,
+		"Stat1DamageModifierValue": 0.10000000149011612,
+		"Stat2ID": 4,
+		"Stat2DamageModifierValue": 1
+	}
+]

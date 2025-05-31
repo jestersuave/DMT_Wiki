@@ -1,0 +1,1521 @@
+[
+	{
+		"RowName": "2709001",
+		"WeightedTableID": "DMT_Ssazz",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Ssazz",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709002",
+		"WeightedTableID": "DMT_Rahzar",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Rahzar",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709003",
+		"WeightedTableID": "DMT_WhiteWind",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_WhiteWind",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709004",
+		"WeightedTableID": "DMT_UrsineFather",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_UrsineFather",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709005",
+		"WeightedTableID": "DMT_ClawOfTheSands",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_ClawOfTheSands",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709006",
+		"WeightedTableID": "DMT_PrideLord",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_PrideLord",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709007",
+		"WeightedTableID": "DMT_AlbinoTiger",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_AlbinoTiger",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709008",
+		"WeightedTableID": "DMT_ProwlingReaper",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_ProwlingReaper",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709009",
+		"WeightedTableID": "DMT_BringerOfSilence",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_BringerOfSilence",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709010",
+		"WeightedTableID": "DMT_Gore",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Gore",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709011",
+		"WeightedTableID": "DMT_RagingBull",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_RagingBull",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709012",
+		"WeightedTableID": "DMT_FirstBorneOfDagon",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_FirstBorneOfDagon",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709013",
+		"WeightedTableID": "DMT_GuardianOfLemuria",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_GuardianOfLemuria",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709014",
+		"WeightedTableID": "DMT_EmperorOfWinter",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_EmperorOfWinter",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709015",
+		"WeightedTableID": "DMT_BloatedKing",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_BloatedKing",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709016",
+		"WeightedTableID": "DMT_WarriorOfTheSerpentRing",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_WarriorOfTheSerpentRing",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709017",
+		"WeightedTableID": "DMT_RisenKnight",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_RisenKnight",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709018",
+		"WeightedTableID": "DMT_SpectralAbberation",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_SpectralAbberation",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709019",
+		"WeightedTableID": "DMT_HarbingerOfTheRedMoon",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_HarbingerOfTheRedMoon",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709020",
+		"WeightedTableID": "Purge_UnitedTribe",
+		"NextWeightedTableID": "Heirs_of_the_North_Fighter_1_FireOrb",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709021",
+		"WeightedTableID": "Purge_UnitedTribe",
+		"NextWeightedTableID": "HeirsToTheNorth_Wolf",
+		"SpawnTableID": "1_None",
+		"Weight": 2
+	},
+	{
+		"RowName": "2709022",
+		"WeightedTableID": "Purge_UnitedTribe",
+		"NextWeightedTableID": "HeirsToTheNorthArtisan_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709023",
+		"WeightedTableID": "Purge_UnitedTribe",
+		"NextWeightedTableID": "Heirs_of_the_North_Fighter_3_FireOrb",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709024",
+		"WeightedTableID": "Purge_UnitedTribe",
+		"NextWeightedTableID": "ForgottenTribeArtisan_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709025",
+		"WeightedTableID": "Purge_UnitedTribe",
+		"NextWeightedTableID": "HeirsToTheNorthArcher_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709026",
+		"WeightedTableID": "Purge_UnitedTribe",
+		"NextWeightedTableID": "ForgottenTribeFighter_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709027",
+		"WeightedTableID": "Purge_UnitedTribe",
+		"NextWeightedTableID": "ForgottenTribeArcher_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709028",
+		"WeightedTableID": "Purge_UnitedTribeBoss",
+		"NextWeightedTableID": "Heirs_Purge_Huntingpartyboss",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709029",
+		"WeightedTableID": "Purge_UnitedTribeBoss",
+		"NextWeightedTableID": "Purge_HeirsToTheNorthBoss_T4",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709030",
+		"WeightedTableID": "DMT_GeddonSpider",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_GeddonSpider",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709031",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderBrown",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709032",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderCorrupted",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709033",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderGreen",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709034",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderGrey",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709035",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderRedMouth",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709036",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderWidowBlack",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709037",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderWidowBlue",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709038",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderWidowGreen",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709039",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderWidowRed",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709040",
+		"WeightedTableID": "GeddonMinion",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Wildlife_SpiderWidowYellow",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709041",
+		"WeightedTableID": "DMT_TrueHiveQueen",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_TrueHiveQueen",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709042",
+		"WeightedTableID": "Grub",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Grub",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709119",
+		"WeightedTableID": "DMT_HarbingerOfTheRedMoon_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_HarbingerOfTheRedMoon_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709101",
+		"WeightedTableID": "DMT_Ssazz_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Ssazz_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709102",
+		"WeightedTableID": "DMT_Rahzar_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Rahzar_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709103",
+		"WeightedTableID": "DMT_WhiteWind_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_WhiteWind_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709104",
+		"WeightedTableID": "DMT_UrsineFather_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_UrsineFather_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709105",
+		"WeightedTableID": "DMT_ClawOfTheSands_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_ClawOfTheSands_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709106",
+		"WeightedTableID": "DMT_PrideLord_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_PrideLord_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709107",
+		"WeightedTableID": "DMT_AlbinoTiger_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_AlbinoTiger_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709108",
+		"WeightedTableID": "DMT_ProwlingReaper_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_ProwlingReaper_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709109",
+		"WeightedTableID": "DMT_BringerOfSilence_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_BringerOfSilence_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709110",
+		"WeightedTableID": "DMT_Gore_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Gore_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709111",
+		"WeightedTableID": "DMT_RagingBull_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_RagingBull_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709112",
+		"WeightedTableID": "DMT_FirstBorneOfDagon_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_FirstBorneOfDagon_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709113",
+		"WeightedTableID": "DMT_GuardianOfLemuria_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_GuardianOfLemuria_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709114",
+		"WeightedTableID": "DMT_EmperorOfWinter_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_EmperorOfWinter_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709115",
+		"WeightedTableID": "DMT_BloatedKing_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_BloatedKing_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709116",
+		"WeightedTableID": "DMT_WarriorOfTheSerpentRing_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_WarriorOfTheSerpentRing_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709117",
+		"WeightedTableID": "DMT_RisenKnight_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_RisenKnight_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709118",
+		"WeightedTableID": "DMT_SpectralAbberation_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_SpectralAbberation_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709141",
+		"WeightedTableID": "DMT_TrueHiveQueen_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_TrueHiveQueen_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709142",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_1_Kushite",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709143",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_1_Shemite",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709144",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_1_Stygian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709145",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_1_Zamorian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709146",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_2_Kushite",
+		"Weight": 5
+	},
+	{
+		"RowName": "2709147",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_2_Shemite",
+		"Weight": 5
+	},
+	{
+		"RowName": "2709148",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_2_Stygian",
+		"Weight": 5
+	},
+	{
+		"RowName": "2709149",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_2_Zamorian",
+		"Weight": 5
+	},
+	{
+		"RowName": "2709150",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_3_Kushite",
+		"Weight": 5
+	},
+	{
+		"RowName": "2709151",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_3_Zamorian",
+		"Weight": 5
+	},
+	{
+		"RowName": "2709152",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_3_Shemite",
+		"Weight": 5
+	},
+	{
+		"RowName": "2709153",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_3_Stygian",
+		"Weight": 5
+	},
+	{
+		"RowName": "2709154",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Dogs_Keeper_4_Zamorian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709155",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Darfari_Keeper_4_Darfari",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709156",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Exile_Keeper_4_Hyborian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709157",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Forgotten_Tribe_Keeper_4_Cimmerian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709158",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Forgotten_Tribe_Keeper_4_Cimmerian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709159",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Heirs_of_the_North_Keeper_4_Nordheimer",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709160",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Lemurian_Keeper_4",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709161",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Relic_Hunter_Keeper_4_Zingarian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709162",
+		"WeightedTableID": "Keeper_Random",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "Votaries_Keeper_4",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709163",
+		"WeightedTableID": "BlackHandArtisan_Random",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709164",
+		"WeightedTableID": "DarfariArtisan_Random",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709165",
+		"WeightedTableID": "DogsArtisan_Random",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709166",
+		"WeightedTableID": "ExileArtisan_Random",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709167",
+		"WeightedTableID": "ForgottenTribeArtisan_Random",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709168",
+		"WeightedTableID": "HeirsToTheNorthArtisan_Random",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709169",
+		"WeightedTableID": "LemurianArtisan_Random",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709170",
+		"WeightedTableID": "RelicHunterArtisan_Random",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709171",
+		"WeightedTableID": "Votaries_Of_Skelos_Novice",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 0.40000000596046448
+	},
+	{
+		"RowName": "2709043",
+		"WeightedTableID": "DMT_Raid_QueenOfVenom",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Raid_QueenOfVenom",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709044",
+		"WeightedTableID": "DMT_Raid_FatherOfScales",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Raid_FatherOfScales",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709045",
+		"WeightedTableID": "DMT_Raid_QueenOfVenom_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Raid_QueenOfVenom_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709046",
+		"WeightedTableID": "DMT_Raid_FatherOfScales_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Raid_FatherOfScales_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709047",
+		"WeightedTableID": "DMT_Raid_ApexSalamander",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Raid_ApexSalamander",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709048",
+		"WeightedTableID": "DMT_Raid_ApexSalamander_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Raid_ApexSalamander_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709049",
+		"WeightedTableID": "DMT_BloodDefiler",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_BloodDefiler",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709050",
+		"WeightedTableID": "DMT_BloodDefiler_NoLoot",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_BloodDefiler_NoLoot",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709051",
+		"WeightedTableID": "Votaries_Fighter_Hostile",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709052",
+		"WeightedTableID": "Votaries_Archer_Hostile",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709053",
+		"WeightedTableID": "RelicHunterCaptain",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709054",
+		"WeightedTableID": "RelicHunterArcher_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709055",
+		"WeightedTableID": "LemurianFighter_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709056",
+		"WeightedTableID": "LemurianArcher_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709057",
+		"WeightedTableID": "HeirsToTheNorthFighter_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709058",
+		"WeightedTableID": "HeirsToTheNorthArcher_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709059",
+		"WeightedTableID": "ForgottenTribeFighter_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709060",
+		"WeightedTableID": "ForgottenTribeFighter_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709061",
+		"WeightedTableID": "ForgottenTribeArcher_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709062",
+		"WeightedTableID": "ForgottenTribeArcher_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709063",
+		"WeightedTableID": "ExileFighter_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709064",
+		"WeightedTableID": "ExileArcher_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709065",
+		"WeightedTableID": "DogsFighter_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709066",
+		"WeightedTableID": "DogsArcher_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709067",
+		"WeightedTableID": "DarfariArcher_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709068",
+		"WeightedTableID": "DarfariCannibalBrute",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709069",
+		"WeightedTableID": "BlackHandPirFighter_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709070",
+		"WeightedTableID": "BlackHandPirFighter_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709071",
+		"WeightedTableID": "Dunkas",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709072",
+		"WeightedTableID": "BlackHandPirArcher_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709073",
+		"WeightedTableID": "BlackHandPirArcher_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709074",
+		"WeightedTableID": "RelicHunterArcher_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709075",
+		"WeightedTableID": "BlackHandFighter_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709076",
+		"WeightedTableID": "BlackHandFighter_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709077",
+		"WeightedTableID": "BlackHandFighter_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709078",
+		"WeightedTableID": "BlackHandFighter_RandomLegendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709079",
+		"WeightedTableID": "BlackHandArcher_Legendary",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709080",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Votaries_Fighter_4_hostile",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709081",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Lemurian_Archer_4b",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709082",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Heirs_of_the_North_Fighter_4_Nordheimer",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709083",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Forgotten_Tribe_Fighter_4_Cimmerian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709084",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Votaries_Archer_4_hostile",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709085",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Relic_Hunter_Archer_4_Hyrkanian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709086",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Relic_Hunter_Captain",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709087",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Relic_Hunter_Captain2",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709088",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Heirs_of_the_North_Fighter_4_Nordheimer2",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709089",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Heirs_of_the_North_Archer_4_Nordheimer",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709090",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Heirs_of_the_North_Archer_4_Hunter",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709091",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Votaries_Fighter_4b_hostile",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709092",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Lemurian_Archer_4",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709093",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Lemurian_Fighter_4b",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709094",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Forgotten_Tribe_Archer_4_Cimmerian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709095",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Votaries_Archer_4b_hostile",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709096",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Exile_Fighter_4_Cimmerian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709097",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Relic_Hunter_Archer_4_Hyborian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709098",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Lemurian_Fighter_4",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709099",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Dogs_Fighter_4_Shemite",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709100",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Exile_Fighter_4_Nordheimer",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709120",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Exile_Archer_4_Hyrkanian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709121",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Exile_Archer_4_Hyborian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709122",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Darfari_Cannibals_Archer_4_Darfari",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709123",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Darfari_Cannibals_Fighter_4_Darfari",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709124",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Dogs_Archer_4_Zamorian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709125",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Black_Hand_Pir_Fighter_4_Nordheimer",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709126",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Black_Hand_Pir_Archer_4_Hyborian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709127",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Black_Hand_Pir_Fighter_4_Cimmerian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709128",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Black_Hand_Pir_Archer_4_Cimmerian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709129",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Black_Hand_Fighter_4_Nordheimer",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709130",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Black_Hand_Fighter_4_Cimmerian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709131",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Black_Hand_Archer_4_Hyrkanian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709132",
+		"WeightedTableID": "Heralds",
+		"NextWeightedTableID": "None",
+		"SpawnTableID": "DMT_Black_Hand_Archer_4_Hyborian",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709133",
+		"WeightedTableID": "Blackhand_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 15
+	},
+	{
+		"RowName": "2709134",
+		"WeightedTableID": "Aesir_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 15
+	},
+	{
+		"RowName": "2709135",
+		"WeightedTableID": "Army_of_Aquilonia_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709136",
+		"WeightedTableID": "Black_Corsairs_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 15
+	},
+	{
+		"RowName": "2709137",
+		"WeightedTableID": "Blackhand_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709138",
+		"WeightedTableID": "Caravan_Guards_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709139",
+		"WeightedTableID": "Children_of_Jhebbal_Sag_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709140",
+		"WeightedTableID": "Cultist_of_Dagon_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709500",
+		"WeightedTableID": "Darfari_Cannibals_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709501",
+		"WeightedTableID": "Darfari_Manhunters_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709502",
+		"WeightedTableID": "Demonic_Amazons_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709503",
+		"WeightedTableID": "Dogs_of_the_Desert_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709504",
+		"WeightedTableID": "Exile_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 20
+	},
+	{
+		"RowName": "2709505",
+		"WeightedTableID": "Exiles_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709506",
+		"WeightedTableID": "Followers_of_Sag_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709507",
+		"WeightedTableID": "Forgotten_Tribe_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709508",
+		"WeightedTableID": "Heirs_to_the_North_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 15
+	},
+	{
+		"RowName": "2709509",
+		"WeightedTableID": "Hyborian_Survivors_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 15
+	},
+	{
+		"RowName": "2709510",
+		"WeightedTableID": "Lemurian_Remnants_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709511",
+		"WeightedTableID": "Menagerie_of_Jhebbal_Sag_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709512",
+		"WeightedTableID": "Relic_Hunters_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709513",
+		"WeightedTableID": "Relic_Hunters_TreasureSeekers_Surge_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709514",
+		"WeightedTableID": "Set_Followers_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709515",
+		"WeightedTableID": "Stygian_Raiders_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 15
+	},
+	{
+		"RowName": "2709516",
+		"WeightedTableID": "Vanir_Loysing_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 85
+	},
+	{
+		"RowName": "2709517",
+		"WeightedTableID": "Yoggites_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 25
+	},
+	{
+		"RowName": "2709518",
+		"WeightedTableID": "Zingaran_Freebooters_Crafters",
+		"NextWeightedTableID": "Heralds",
+		"SpawnTableID": "1_None",
+		"Weight": 10
+	},
+	{
+		"RowName": "2709172",
+		"WeightedTableID": "Blackhand_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709173",
+		"WeightedTableID": "Aesir_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709174",
+		"WeightedTableID": "Army_of_Aquilonia_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709175",
+		"WeightedTableID": "Black_Corsairs_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709176",
+		"WeightedTableID": "Blackhand_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709177",
+		"WeightedTableID": "Caravan_Guards_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709178",
+		"WeightedTableID": "Children_of_Jhebbal_Sag_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709179",
+		"WeightedTableID": "Cultist_of_Dagon_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709519",
+		"WeightedTableID": "Darfari_Cannibals_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709520",
+		"WeightedTableID": "Darfari_Manhunters_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709521",
+		"WeightedTableID": "Demonic_Amazons_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709522",
+		"WeightedTableID": "Dogs_of_the_Desert_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709523",
+		"WeightedTableID": "Exile_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709524",
+		"WeightedTableID": "Exiles_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709525",
+		"WeightedTableID": "Followers_of_Sag_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709526",
+		"WeightedTableID": "Forgotten_Tribe_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709527",
+		"WeightedTableID": "Heirs_to_the_North_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709528",
+		"WeightedTableID": "Hyborian_Survivors_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709529",
+		"WeightedTableID": "Lemurian_Remnants_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709530",
+		"WeightedTableID": "Menagerie_of_Jhebbal_Sag_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709531",
+		"WeightedTableID": "Relic_Hunters_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709532",
+		"WeightedTableID": "Relic_Hunters_TreasureSeekers_Surge_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709533",
+		"WeightedTableID": "Set_Followers_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709534",
+		"WeightedTableID": "Stygian_Raiders_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709535",
+		"WeightedTableID": "Vanir_Loysing_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709536",
+		"WeightedTableID": "Yoggites_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	},
+	{
+		"RowName": "2709537",
+		"WeightedTableID": "Zingaran_Freebooters_Crafters",
+		"NextWeightedTableID": "Keeper_Random",
+		"SpawnTableID": "1_None",
+		"Weight": 1
+	}
+]

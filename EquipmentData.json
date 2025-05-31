@@ -1,0 +1,258 @@
+[
+	{
+		"RowName": "Keeper_Armor",
+		"MainHand": [],
+		"OffHand": [],
+		"Helmet": [ 52007 ],
+		"Torso": [ 52006 ],
+		"Legs": [ 52010 ],
+		"Hands": [ 52008 ],
+		"Feet": [ 52009 ],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Greed",
+		"MainHand": [ 2710864 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Lust",
+		"MainHand": [ 2710865 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Wrath",
+		"MainHand": [ 2710866 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "WrathArmor",
+		"MainHand": [],
+		"OffHand": [],
+		"Helmet": [ 51904 ],
+		"Torso": [ 52996 ],
+		"Legs": [ 52998 ],
+		"Hands": [ 52997 ],
+		"Feet": [ 52999 ],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Sloth",
+		"MainHand": [ 2710867 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Pride",
+		"MainHand": [ 2710868 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Gluttony",
+		"MainHand": [ 2710869 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Envy",
+		"MainHand": [ 2710870 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "MitraArmor",
+		"MainHand": [],
+		"OffHand": [],
+		"Helmet": [ 2711051 ],
+		"Torso": [ 52996 ],
+		"Legs": [ 52998 ],
+		"Hands": [ 52997 ],
+		"Feet": [ 52999 ],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Mitrawpn",
+		"MainHand": [ 2710871 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "CursedLife",
+		"MainHand": [ 2710872 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "CursedArmor",
+		"MainHand": [],
+		"OffHand": [],
+		"Helmet": [ 2710873 ],
+		"Torso": [ 52006 ],
+		"Legs": [ 52010 ],
+		"Hands": [ 52008 ],
+		"Feet": [ 52009 ],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "VoidArmor",
+		"MainHand": [],
+		"OffHand": [],
+		"Helmet": [ 2711149 ],
+		"Torso": [ 52006 ],
+		"Legs": [ 52010 ],
+		"Hands": [ 52008 ],
+		"Feet": [ 52009 ],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "Void",
+		"MainHand": [ 2710874 ],
+		"OffHand": [],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	},
+	{
+		"RowName": "SzethTheDrunk2",
+		"MainHand": [ 22020 ],
+		"OffHand": [ 51971 ],
+		"Helmet": [],
+		"Torso": [],
+		"Legs": [],
+		"Hands": [],
+		"Feet": [],
+		"Backpack": [ 22021, 22022, 22022, 22023, 51971 ],
+		"Durability":
+		{
+			"Min": 0.10000000149011612,
+			"Max": 0.25
+		}
+	}
+]

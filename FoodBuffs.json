@@ -1,0 +1,190 @@
+[
+	{
+		"RowName": "2711683",
+		"StatToBuff": [
+			"AttributeMight"
+		]
+	},
+	{
+		"RowName": "2711684",
+		"StatToBuff": [
+			"AttributeAthleticism"
+		]
+	},
+	{
+		"RowName": "2711685",
+		"StatToBuff": [
+			"AttributeHealth"
+		]
+	},
+	{
+		"RowName": "2711686",
+		"StatToBuff": [
+			"AttributeAthleticism"
+		]
+	},
+	{
+		"RowName": "2711687",
+		"StatToBuff": [
+			"AttributeStamina"
+		]
+	},
+	{
+		"RowName": "2711688",
+		"StatToBuff": [
+			"AttributeEncumbrance"
+		]
+	},
+	{
+		"RowName": "2711689",
+		"StatToBuff": [
+			"AttributeLeadership"
+		]
+	},
+	{
+		"RowName": "2711690",
+		"StatToBuff": [
+			"AttributeMight",
+			"AttributeAthleticism"
+		]
+	},
+	{
+		"RowName": "2711691",
+		"StatToBuff": [
+			"AttributeMight",
+			"AttributeHealth"
+		]
+	},
+	{
+		"RowName": "2711692",
+		"StatToBuff": [
+			"AttributeMight",
+			"AttributeAthleticism"
+		]
+	},
+	{
+		"RowName": "2711693",
+		"StatToBuff": [
+			"AttributeMight",
+			"AttributeStamina"
+		]
+	},
+	{
+		"RowName": "2711694",
+		"StatToBuff": [
+			"AttributeMight",
+			"AttributeEncumbrance"
+		]
+	},
+	{
+		"RowName": "2711695",
+		"StatToBuff": [
+			"AttributeMight",
+			"AttributeLeadership"
+		]
+	},
+	{
+		"RowName": "2711696",
+		"StatToBuff": [
+			"AttributeAthleticism",
+			"AttributeHealth"
+		]
+	},
+	{
+		"RowName": "2711697",
+		"StatToBuff": [
+			"AttributeAthleticism"
+		]
+	},
+	{
+		"RowName": "2711698",
+		"StatToBuff": [
+			"AttributeAthleticism",
+			"AttributeStamina"
+		]
+	},
+	{
+		"RowName": "2711699",
+		"StatToBuff": [
+			"AttributeAthleticism",
+			"AttributeEncumbrance"
+		]
+	},
+	{
+		"RowName": "2711700",
+		"StatToBuff": [
+			"AttributeAthleticism",
+			"AttributeLeadership"
+		]
+	},
+	{
+		"RowName": "2711701",
+		"StatToBuff": [
+			"AttributeHealth",
+			"AttributeAthleticism"
+		]
+	},
+	{
+		"RowName": "2711702",
+		"StatToBuff": [
+			"AttributeHealth",
+			"AttributeStamina"
+		]
+	},
+	{
+		"RowName": "2711703",
+		"StatToBuff": [
+			"AttributeHealth",
+			"AttributeEncumbrance"
+		]
+	},
+	{
+		"RowName": "2711704",
+		"StatToBuff": [
+			"AttributeHealth",
+			"AttributeLeadership"
+		]
+	},
+	{
+		"RowName": "2711705",
+		"StatToBuff": [
+			"AttributeAthleticism",
+			"AttributeStamina"
+		]
+	},
+	{
+		"RowName": "2711706",
+		"StatToBuff": [
+			"AttributeAthleticism",
+			"AttributeEncumbrance"
+		]
+	},
+	{
+		"RowName": "2711707",
+		"StatToBuff": [
+			"AttributeAthleticism",
+			"AttributeLeadership"
+		]
+	},
+	{
+		"RowName": "2711708",
+		"StatToBuff": [
+			"AttributeStamina",
+			"AttributeEncumbrance"
+		]
+	},
+	{
+		"RowName": "2711709",
+		"StatToBuff": [
+			"AttributeStamina",
+			"AttributeLeadership"
+		]
+	},
+	{
+		"RowName": "2711710",
+		"StatToBuff": [
+			"AttributeEncumbrance",
+			"AttributeLeadership"
+		]
+	}
+]

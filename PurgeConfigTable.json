@@ -1,0 +1,3476 @@
+[
+	{
+		"RowName": "2709001",
+		"WaveName": "Merc_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"AC34A8174DE52DD2C28BC1A62C646D4D\", \"A roaming band of Mercenaries\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -300000,
+			"Y": -280000
+		},
+		"AreaMax":
+		{
+			"X": 373000,
+			"Y": 237000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"Boss": "ExileFighter_RandomLegendary",
+				"InBaseBoss": "ExileFighter_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 2,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"Boss": "DarfariCannibalBrute",
+				"InBaseBoss": "DarfariCannibalBrute",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 4,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"OnBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"Boss": "BlackHandArcher_RandomLegendary",
+				"InBaseBoss": "BlackHandArcher_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 6,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"Boss": "DogsFighter_RandomLegendary",
+				"InBaseBoss": "DogsFighter_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 8,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"Boss": "HeirsToTheNorthArtisan_Chieftain",
+				"InBaseBoss": "HeirsToTheNorthArtisan_Chieftain",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"Boss": "Purge_VotariesBoss_T4",
+				"InBaseBoss": "Purge_VotariesBoss_T4",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709002",
+		"WaveName": "Merc_Wave2",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"BF201CD64A4CF43709DE809F8E2D27D7\", \"A roaming band of Mercenaries\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -300000,
+			"Y": -280000
+		},
+		"AreaMax":
+		{
+			"X": 373000,
+			"Y": 237000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"Boss": "Purge_Exile_Artisan",
+				"InBaseBoss": "Purge_Exile_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 2,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"Boss": "Purge_Darfari_Artisan",
+				"InBaseBoss": "Purge_Darfari_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 4,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"OnBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"Boss": "Purge_BlackHandPirates_Artisan",
+				"InBaseBoss": "Purge_BlackHandPirates_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 6,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"Boss": "Purge_DogsOfTheDesert_Artisan",
+				"InBaseBoss": "Purge_DogsOfTheDesert_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 8,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"Boss": "Purge_HeirsToTheNorth_Artisan",
+				"InBaseBoss": "Purge_HeirsToTheNorth_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709003",
+		"WaveName": "Merc_Wave3",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"2256E8FB40512756FE352AB861B61D40\", \"A roaming band of Mercenaries\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -300000,
+			"Y": -280000
+		},
+		"AreaMax":
+		{
+			"X": 373000,
+			"Y": 237000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"Boss": "Purge_Exile_Artisan",
+				"InBaseBoss": "Purge_Exile_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 2,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"Boss": "Purge_Darfari_Artisan",
+				"InBaseBoss": "Purge_Darfari_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 4,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"OnBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"Boss": "Purge_BlackHandPirates_Artisan",
+				"InBaseBoss": "Purge_BlackHandPirates_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 6,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"Boss": "Purge_DogsOfTheDesert_Artisan",
+				"InBaseBoss": "Purge_DogsOfTheDesert_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 8,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"Boss": "Purge_HeirsToTheNorth_Artisan",
+				"InBaseBoss": "Purge_HeirsToTheNorth_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709004",
+		"WaveName": "Merc_Wave4",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"FF2B99C2457FC2511E5BB3A25D5D7025\", \"A roaming band of Mercenaries\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -300000,
+			"Y": -280000
+		},
+		"AreaMax":
+		{
+			"X": 373000,
+			"Y": 237000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"Boss": "Purge_Exile_Artisan",
+				"InBaseBoss": "Purge_Exile_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 2,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave5",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"Boss": "Purge_Darfari_Artisan",
+				"InBaseBoss": "Purge_Darfari_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 4,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave5",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"OnBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"Boss": "Purge_BlackHandPirates_Artisan",
+				"InBaseBoss": "Purge_BlackHandPirates_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 6,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave5",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"Boss": "Purge_DogsOfTheDesert_Artisan",
+				"InBaseBoss": "Purge_DogsOfTheDesert_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 8,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave5",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"Boss": "Purge_HeirsToTheNorth_Artisan",
+				"InBaseBoss": "Purge_HeirsToTheNorth_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave5",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "Merc_Wave5",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709005",
+		"WaveName": "Merc_Wave5",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"1C19DC474F7FADE164B06AA9D550BC9F\", \"A roaming band of Mercenaries\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -300000,
+			"Y": -280000
+		},
+		"AreaMax":
+		{
+			"X": 373000,
+			"Y": 237000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileFighter_Random",
+					"ExileArtisan_Random"
+				],
+				"Boss": "ExileFighter_RandomLegendary",
+				"InBaseBoss": "ExileFighter_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 2,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DarfariArcher_Random",
+					"DarfariArtisan_Random",
+					"DarfariFighter_Random"
+				],
+				"Boss": "DarfariCannibalBrute",
+				"InBaseBoss": "DarfariCannibalBrute",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 4,
+				"ActiveCap": 2,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"OnBaseSpawnData": [
+					"BlackHandArtisan_Random",
+					"BlackHandFighter_Random",
+					"BlackHandArcher_Random"
+				],
+				"Boss": "BlackHandArcher_RandomLegendary",
+				"InBaseBoss": "BlackHandArcher_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 6,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"DogsArcher_Random",
+					"DogsArtisan_Random",
+					"DogsFighter_Random"
+				],
+				"Boss": "DogsFighter_RandomLegendary",
+				"InBaseBoss": "DogsFighter_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 8,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"HeirsToTheNorthArcher_Random",
+					"HeirsToTheNorthArtisan_Random",
+					"HeirsToTheNorthFighter_Random"
+				],
+				"Boss": "HeirsToTheNorthArtisan_Chieftain",
+				"InBaseBoss": "HeirsToTheNorthArtisan_Chieftain",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Archer_Random",
+					"Votaries_Fighter_Hostile"
+				],
+				"Boss": "Purge_VotariesBoss_T4",
+				"InBaseBoss": "Purge_VotariesBoss_T4",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709006",
+		"WaveName": "UnnamedCity",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"5C9D381E42E67511CD7FEA87D908090E\", \"The forces of the Unnamed City\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -225000,
+			"Y": 46000
+		},
+		"AreaMax":
+		{
+			"X": -70000,
+			"Y": 197000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"Boss": "AbandonedCity_UndeadLizardMan",
+				"InBaseBoss": "AbandonedCity_UndeadLizardMan",
+				"BossSpawnDelay": 60,
+				"SpawnCap": 8,
+				"ActiveCap": 4,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"Boss": "AbandonedCity_Boss_TheBrute",
+				"InBaseBoss": "AbandonedCity_Boss_TheBrute",
+				"BossSpawnDelay": 60,
+				"SpawnCap": 12,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"Boss": "AbandonedCity_Boss_TheGraveWalker",
+				"InBaseBoss": "AbandonedCity_Boss_TheGraveWalker",
+				"BossSpawnDelay": 60,
+				"SpawnCap": 16,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 3,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"Boss": "AbandonedCity_Boss_FlameGuardian",
+				"InBaseBoss": "AbandonedCity_Boss_FlameGuardian",
+				"BossSpawnDelay": 60,
+				"SpawnCap": 20,
+				"ActiveCap": 14,
+				"SpawnLocationCap": 3,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"Boss": "AbandonedCity_Boss_TheCommander",
+				"InBaseBoss": "AbandonedCity_Boss_TheCommander",
+				"BossSpawnDelay": 60,
+				"SpawnCap": 24,
+				"ActiveCap": 14,
+				"SpawnLocationCap": 3,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"Boss": "AbandonedCity_Boss_TheRedMother",
+				"InBaseBoss": "AbandonedCity_Boss_TheRedMother",
+				"BossSpawnDelay": 60,
+				"SpawnCap": 28,
+				"ActiveCap": 14,
+				"SpawnLocationCap": 4,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709007",
+		"WaveName": "Sobek_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"1219941041A4AED32C2F87BB002FA5B9\", \"The Cult of Sobek\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 85000,
+			"Y": 47000
+		},
+		"AreaMax":
+		{
+			"X": 250000,
+			"Y": 230000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_1",
+					"Sobek_Fighter_1"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_1",
+					"Sobek_Fighter_1"
+				],
+				"Boss": "Sobek_Boss",
+				"InBaseBoss": "Sobek_Boss",
+				"BossSpawnDelay": 60,
+				"SpawnCap": 8,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_1",
+					"Sobek_Fighter_1"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_1",
+					"Sobek_Fighter_1"
+				],
+				"Boss": "Sobek_Boss",
+				"InBaseBoss": "Sobek_Boss",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 15,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_1",
+					"Sobek_Fighter_1"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_1",
+					"Sobek_Fighter_1"
+				],
+				"Boss": "None",
+				"InBaseBoss": "None",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 8,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "Sobek_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"Boss": "None",
+				"InBaseBoss": "None",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 12,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "Sobek_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"Boss": "None",
+				"InBaseBoss": "None",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 16,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "Sobek_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"Boss": "None",
+				"InBaseBoss": "None",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 20,
+				"ActiveCap": 20,
+				"SpawnLocationCap": 2,
+				"NextWave": "Sobek_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709008",
+		"WaveName": "Sobek_Wave2",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"1219941041A4AED32C2F87BB002FA5B9\", \"The Cult of Sobek\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 85000,
+			"Y": 47000
+		},
+		"AreaMax":
+		{
+			"X": 250000,
+			"Y": 230000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_1",
+					"Sobek_Fighter_1",
+					"Sobek_Fighter_4"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_1",
+					"Sobek_Fighter_1",
+					"Sobek_Fighter_4"
+				],
+				"Boss": "Sobek_Boss",
+				"InBaseBoss": "Sobek_Boss",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 12,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"Boss": "Sobek_Boss",
+				"InBaseBoss": "Sobek_Boss",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 16,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"Boss": "Wildlife_ReptileCrocodile_Sobek",
+				"InBaseBoss": "Wildlife_ReptileCrocodile_Sobek",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 16,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "Sobek_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4"
+				],
+				"Boss": "Wildlife_ReptileCrocodile_Sobek",
+				"InBaseBoss": "Wildlife_ReptileCrocodile_Sobek",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 20,
+				"ActiveCap": 20,
+				"SpawnLocationCap": 2,
+				"NextWave": "Sobek_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709009",
+		"WaveName": "Sobek_Wave3",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"1219941041A4AED32C2F87BB002FA5B9\", \"The Cult of Sobek\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 85000,
+			"Y": 47000
+		},
+		"AreaMax":
+		{
+			"X": 250000,
+			"Y": 230000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4",
+					"Wildlife_ReptileCrocodile_Sobek"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4",
+					"Wildlife_ReptileCrocodile_Sobek"
+				],
+				"Boss": "Sobek_Boss",
+				"InBaseBoss": "Sobek_Boss",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 20,
+				"ActiveCap": 20,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4",
+					"Wildlife_ReptileCrocodile_Sobek"
+				],
+				"OnBaseSpawnData": [
+					"Sobek_Archer_4",
+					"Sobek_Fighter_4",
+					"Wildlife_ReptileCrocodile_Sobek"
+				],
+				"Boss": "Sobek_Boss",
+				"InBaseBoss": "Sobek_Boss",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 40,
+				"ActiveCap": 20,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709010",
+		"WaveName": "TreasureHunters_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"51F8E7CE480530656E596E9AD91B6A0D\", \"A band of Treasure-seekers\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -350000,
+			"Y": 23000
+		},
+		"AreaMax":
+		{
+			"X": -20000,
+			"Y": 190000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "AbandonedCity_RelicHunter_Boss",
+				"InBaseBoss": "AbandonedCity_RelicHunter_Boss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 6,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "AbandonedCity_RelicHunter_Boss",
+				"InBaseBoss": "AbandonedCity_RelicHunter_Boss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 8,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "Purge_RelicHunters_Artisan",
+				"InBaseBoss": "Purge_RelicHunters_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "TreasureHunters_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "Purge_RelicHunters_Artisan",
+				"InBaseBoss": "Purge_RelicHunters_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "TreasureHunters_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "Purge_RelicHunters_Artisan",
+				"InBaseBoss": "Purge_RelicHunters_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 14,
+				"ActiveCap": 14,
+				"SpawnLocationCap": 2,
+				"NextWave": "TreasureHunters_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "Purge_RelicHunters_Artisan",
+				"InBaseBoss": "Purge_RelicHunters_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 16,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "TreasureHunters_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709011",
+		"WaveName": "TreasureHunters_Wave2",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"51F8E7CE480530656E596E9AD91B6A0D\", \"A band of Treasure-seekers\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -350000,
+			"Y": 23000
+		},
+		"AreaMax":
+		{
+			"X": -20000,
+			"Y": 190000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "AbandonedCity_RelicHunter_Boss",
+				"InBaseBoss": "AbandonedCity_RelicHunter_Boss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 16,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "AbandonedCity_RelicHunter_Boss",
+				"InBaseBoss": "AbandonedCity_RelicHunter_Boss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 20,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "Purge_RelicHunters_Artisan",
+				"InBaseBoss": "Purge_RelicHunters_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 24,
+				"ActiveCap": 14,
+				"SpawnLocationCap": 2,
+				"NextWave": "TreasureHunters_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker"
+				],
+				"Boss": "Purge_RelicHunters_Artisan",
+				"InBaseBoss": "Purge_RelicHunters_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 28,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "TreasureHunters_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709012",
+		"WaveName": "TreasureHunters_Wave3",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"51F8E7CE480530656E596E9AD91B6A0D\", \"A band of Treasure-seekers\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -350000,
+			"Y": 23000
+		},
+		"AreaMax":
+		{
+			"X": -20000,
+			"Y": 190000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker",
+					"RelicHunterArtisan_Random",
+					"RelicHunterCombat_Random"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker",
+					"RelicHunterArtisan_Random",
+					"RelicHunterCombat_Random"
+				],
+				"Boss": "AbandonedCity_RelicHunter_Boss",
+				"InBaseBoss": "AbandonedCity_RelicHunter_Boss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 30,
+				"ActiveCap": 14,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker",
+					"RelicHunterArtisan_Random",
+					"RelicHunterCombat_Random"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_RelicHunter_Treasureseeker",
+					"RelicHunterArtisan_Random",
+					"RelicHunterCombat_Random"
+				],
+				"Boss": "AbandonedCity_RelicHunter_Boss",
+				"InBaseBoss": "AbandonedCity_RelicHunter_Boss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 35,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709013",
+		"WaveName": "NorthernTribes_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"C77580F248C03DE544E9FEADD662F0ED\", \"A tribe of united northerners\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -290000,
+			"Y": -152000
+		},
+		"AreaMax":
+		{
+			"X": 50000,
+			"Y": 50000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_HeirsToTheNorthBoss_T1",
+				"InBaseBoss": "Purge_HeirsToTheNorthBoss_T1",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 6,
+				"ActiveCap": 4,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_HeirsToTheNorthBoss_T1",
+				"InBaseBoss": "Purge_HeirsToTheNorthBoss_T1",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 5,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_HeirsToTheNorthBoss_T1",
+				"InBaseBoss": "Purge_HeirsToTheNorthBoss_T1",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 14,
+				"ActiveCap": 7,
+				"SpawnLocationCap": 2,
+				"NextWave": "NorthernTribes_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_HeirsToTheNorthBoss_T1",
+				"InBaseBoss": "Purge_HeirsToTheNorthBoss_T1",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 18,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "NorthernTribes_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_HeirsToTheNorthBoss_T1",
+				"InBaseBoss": "Purge_HeirsToTheNorthBoss_T1",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 22,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "NorthernTribes_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_HeirsToTheNorthBoss_T1",
+				"InBaseBoss": "Purge_HeirsToTheNorthBoss_T1",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 26,
+				"ActiveCap": 26,
+				"SpawnLocationCap": 2,
+				"NextWave": "NorthernTribes_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709014",
+		"WaveName": "NorthernTribes_Wave2",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"C77580F248C03DE544E9FEADD662F0ED\", \"A tribe of united northerners\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -290000,
+			"Y": -152000
+		},
+		"AreaMax":
+		{
+			"X": 50000,
+			"Y": 50000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_UnitedTribeBoss",
+				"InBaseBoss": "Purge_UnitedTribeBoss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 21,
+				"ActiveCap": 7,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_UnitedTribeBoss",
+				"InBaseBoss": "Purge_UnitedTribeBoss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 30,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_HeirsToTheNorthBoss_T1",
+				"InBaseBoss": "Purge_HeirsToTheNorthBoss_T1",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 45,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "NorthernTribes_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_HeirsToTheNorthBoss_T1",
+				"InBaseBoss": "Purge_HeirsToTheNorthBoss_T1",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 50,
+				"ActiveCap": 26,
+				"SpawnLocationCap": 2,
+				"NextWave": "NorthernTribes_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709015",
+		"WaveName": "NorthernTribes_Wave3",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"C77580F248C03DE544E9FEADD662F0ED\", \"A tribe of united northerners\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -290000,
+			"Y": -152000
+		},
+		"AreaMax":
+		{
+			"X": 50000,
+			"Y": 50000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_UnitedTribeBoss",
+				"InBaseBoss": "Purge_UnitedTribeBoss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 50,
+				"ActiveCap": 25,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"OnBaseSpawnData": [
+					"Purge_UnitedTribe"
+				],
+				"Boss": "Purge_UnitedTribeBoss",
+				"InBaseBoss": "Purge_UnitedTribeBoss",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 75,
+				"ActiveCap": 40,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709016",
+		"WaveName": "Asura_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"8447AF8B4847FBA5F88B0CBAFA90C27C\", \"Asura\\'s Chosen\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -67000,
+			"Y": 140000
+		},
+		"AreaMax":
+		{
+			"X": 150000,
+			"Y": 230000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"Boss": "RandomAsura",
+				"InBaseBoss": "RandomAsura",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 16,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"Boss": "RandomAsura",
+				"InBaseBoss": "RandomAsura",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 24,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"Boss": "RandomAsura",
+				"InBaseBoss": "RandomAsura",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 30,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"Boss": "RandomAsura",
+				"InBaseBoss": "RandomAsura",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 50,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"Boss": "RandomAsura",
+				"InBaseBoss": "RandomAsura",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 75,
+				"ActiveCap": 25,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"ExileArcher_Random",
+					"ExileArtisan_Random",
+					"ExileFighter_Random"
+				],
+				"Boss": "RandomAsura",
+				"InBaseBoss": "RandomAsura",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 100,
+				"ActiveCap": 25,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709017",
+		"WaveName": "VotaryScouts_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"4CA1C5B0439E776CA545C9BEB1D9E591\", \"A slither of Votaries\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -95000,
+			"Y": -300000
+		},
+		"AreaMax":
+		{
+			"X": 75000,
+			"Y": -105000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "VotaryScouts_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 24,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "VotaryScouts_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 30,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "VotaryScouts_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 40,
+				"ActiveCap": 20,
+				"SpawnLocationCap": 2,
+				"NextWave": "VotaryScouts_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709018",
+		"WaveName": "VotaryScouts_Wave2",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"6EBE09844700818A096CFF9CCC849FF9\", \"A slither of Votaries\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -95000,
+			"Y": -300000
+		},
+		"AreaMax":
+		{
+			"X": 75000,
+			"Y": -105000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 24,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Votaries_Assin",
+				"InBaseBoss": "Votaries_Assin",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 30,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "VotaryScouts_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Votaries_Assin",
+				"InBaseBoss": "Votaries_Assin",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 40,
+				"ActiveCap": 20,
+				"SpawnLocationCap": 2,
+				"NextWave": "VotaryScouts_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709019",
+		"WaveName": "VotaryScouts_Wave3",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"97DC9CA94BE398FCB3F783ACCD0C1053\", \"A slither of Votaries\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -95000,
+			"Y": -300000
+		},
+		"AreaMax":
+		{
+			"X": 75000,
+			"Y": -105000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 30,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"OnBaseSpawnData": [
+					"Votaries_Fighter_Hostile",
+					"Votaries_Fighter_Random",
+					"Votaries_Archer_Random",
+					"Wildlife_SnakeAlpha"
+				],
+				"Boss": "Purge_Votaries_Artisan",
+				"InBaseBoss": "Purge_Votaries_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 40,
+				"ActiveCap": 20,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709020",
+		"WaveName": "WarDancers_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"1B4CD3AC4C424B9A8E7A288CDC5B4DB2\", \"A Troupe of War Dancers\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -234000,
+			"Y": -21000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 160000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"HeirsToTheNorthEntertainer_Random",
+					"RelicHunterEntertainer_Random",
+					"LemurianEntertainer_Random",
+					"ForgottenTribeEntertainer_Random",
+					"ExileEntertainer_Random",
+					"Votaries_Entertainer_Random",
+					"DarfariEntertainer_Random",
+					"DogsEntertainer_Random",
+					"BlackHandEntertainer_Random"
+				],
+				"OnBaseSpawnData": [
+					"HeirsToTheNorthEntertainer_Random",
+					"RelicHunterEntertainer_Random",
+					"LemurianEntertainer_Random",
+					"ForgottenTribeEntertainer_Random",
+					"ExileEntertainer_Random",
+					"Votaries_Entertainer_Random",
+					"DarfariEntertainer_Random",
+					"DogsEntertainer_Random",
+					"BlackHandEntertainer_Random"
+				],
+				"Boss": "RelicHunterEntertainer_RandomLegendary",
+				"InBaseBoss": "RelicHunterEntertainer_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 50,
+				"ActiveCap": 25,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"HeirsToTheNorthEntertainer_Random",
+					"RelicHunterEntertainer_Random",
+					"LemurianEntertainer_Random",
+					"ForgottenTribeEntertainer_Random",
+					"ExileEntertainer_Random",
+					"Votaries_Entertainer_Random",
+					"DarfariEntertainer_Random",
+					"DogsEntertainer_Random",
+					"BlackHandEntertainer_Random"
+				],
+				"OnBaseSpawnData": [
+					"HeirsToTheNorthEntertainer_Random",
+					"RelicHunterEntertainer_Random",
+					"LemurianEntertainer_Random",
+					"ForgottenTribeEntertainer_Random",
+					"ExileEntertainer_Random",
+					"Votaries_Entertainer_Random",
+					"DarfariEntertainer_Random",
+					"DogsEntertainer_Random",
+					"BlackHandEntertainer_Random"
+				],
+				"Boss": "RelicHunterEntertainer_RandomLegendary",
+				"InBaseBoss": "RelicHunterEntertainer_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 100,
+				"ActiveCap": 25,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709021",
+		"WaveName": "DagonWorshippers_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"DDC071644F5A8D7FF0D90D9959CE0590\", \"Dagon Worshippers\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 145000,
+			"Y": -90000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 250000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner_trash"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner_trash"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 6,
+				"ActiveCap": 3,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner_trash"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner_trash"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 8,
+				"ActiveCap": 4,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 10,
+				"ActiveCap": 5,
+				"SpawnLocationCap": 2,
+				"NextWave": "DagonWorshippers_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 12,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "DagonWorshippers_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 15,
+				"ActiveCap": 5,
+				"SpawnLocationCap": 2,
+				"NextWave": "DagonWorshippers_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 20,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "DagonWorshippers_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709022",
+		"WaveName": "DagonWorshippers_Wave2",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"DDC071644F5A8D7FF0D90D9959CE0590\", \"Dagon Worshippers\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 145000,
+			"Y": -90000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 250000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 12,
+				"ActiveCap": 7,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 15,
+				"ActiveCap": 8,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 20,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "DagonWorshippers_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Human_boss1",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 30,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "DagonWorshippers_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709023",
+		"WaveName": "DagonWorshippers_Wave3",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"DDC071644F5A8D7FF0D90D9959CE0590\", \"Dagon Worshippers\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 145000,
+			"Y": -90000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 250000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Monster",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Monster",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 20,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Monster",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Monster",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 30,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "DagonWorshippers_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709024",
+		"WaveName": "DagonWorshippers_Wave4",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"DDC071644F5A8D7FF0D90D9959CE0590\", \"Dagon Worshippers\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 145000,
+			"Y": -90000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 250000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random",
+					"DungeonDagon_Wildlife_DeepOne_Human"
+				],
+				"OnBaseSpawnData": [
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"DungeonDagon_Wildlife_DeepOne_Prisoner",
+					"LemurianArtisan_Random",
+					"DungeonDagon_Wildlife_DeepOne_Human"
+				],
+				"Boss": "DungeonDagon_Wildlife_DeepOne_Monster2",
+				"InBaseBoss": "DungeonDagon_Wildlife_DeepOne_Monster2",
+				"BossSpawnDelay": 5,
+				"SpawnCap": 30,
+				"ActiveCap": 15,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709025",
+		"WaveName": "LemurianInvaders_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"2F4F5F6743E139AAEBF038A3D301FA82\", \"A band of Lemurian Exiles\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 150000,
+			"Y": -5000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 235000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 6,
+				"ActiveCap": 4,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 8,
+				"ActiveCap": 5,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 12,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "LemurianPriest_Random",
+				"InBaseBoss": "LemurianPriest_Random",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 15,
+				"ActiveCap": 5,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "LemurianPriest_Random",
+				"InBaseBoss": "LemurianPriest_Random",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 20,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave2",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709026",
+		"WaveName": "LemurianInvaders_Wave2",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"2F4F5F6743E139AAEBF038A3D301FA82\", \"A band of Lemurian Exiles\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 150000,
+			"Y": -5000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 235000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 1,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "LemurianPriest_RandomLegendary",
+				"InBaseBoss": "LemurianPriest_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 10,
+				"ActiveCap": 5,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 2,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "LemurianPriest_RandomLegendary",
+				"InBaseBoss": "LemurianPriest_RandomLegendary",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 13,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 15,
+				"ActiveCap": 6,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 18,
+				"ActiveCap": 9,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 20,
+				"ActiveCap": 10,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 25,
+				"ActiveCap": 13,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave3",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709027",
+		"WaveName": "LemurianInvaders_Wave3",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"2F4F5F6743E139AAEBF038A3D301FA82\", \"A band of Lemurian Exiles\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 150000,
+			"Y": -5000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 235000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 3,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_LemurianBoss_T4",
+				"InBaseBoss": "Purge_LemurianBoss_T4",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 20,
+				"ActiveCap": 11,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 4,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_LemurianBoss_T4",
+				"InBaseBoss": "Purge_LemurianBoss_T4",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 25,
+				"ActiveCap": 13,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_LemurianBoss_T4",
+				"InBaseBoss": "Purge_LemurianBoss_T4",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 30,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_LemurianBoss_T4",
+				"InBaseBoss": "Purge_LemurianBoss_T4",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 32,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave4",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709028",
+		"WaveName": "LemurianInvaders_Wave4",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"2F4F5F6743E139AAEBF038A3D301FA82\", \"A band of Lemurian Exiles\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 150000,
+			"Y": -5000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 235000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 5,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 35,
+				"ActiveCap": 12,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			},
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_Lemurian_Artisan",
+				"InBaseBoss": "Purge_Lemurian_Artisan",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 40,
+				"ActiveCap": 16,
+				"SpawnLocationCap": 2,
+				"NextWave": "LemurianInvaders_Wave5",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709029",
+		"WaveName": "LemurianInvaders_Wave5",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"2F4F5F6743E139AAEBF038A3D301FA82\", \"A band of Lemurian Exiles\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": 150000,
+			"Y": -5000
+		},
+		"AreaMax":
+		{
+			"X": 400000,
+			"Y": 235000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"OnBaseSpawnData": [
+					"LemurianArcher_Random",
+					"LemurianArtisan_Random",
+					"LemurianFighter_Random"
+				],
+				"Boss": "Purge_LemurianBoss_T4",
+				"InBaseBoss": "Purge_LemurianBoss_T4",
+				"BossSpawnDelay": 1,
+				"SpawnCap": 50,
+				"ActiveCap": 20,
+				"SpawnLocationCap": 2,
+				"NextWave": "None",
+				"WaveTime": 600,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	},
+	{
+		"RowName": "2709030",
+		"WaveName": "ArmyOfSkeletons_Wave1",
+		"WaveDisplayName": "NSLOCTEXT(\"[AA612B694DDAA31EEDD12B982EDA3D48]\", \"E3D8067846136D3876AE60BD45BE4D98\", \"An army of the Dead\")",
+		"BuildingDamageMultiplierTier": 0,
+		"AreaMin":
+		{
+			"X": -225000,
+			"Y": 46000
+		},
+		"AreaMax":
+		{
+			"X": -70000,
+			"Y": 197000
+		},
+		"Waves": [
+			{
+				"DifficultyThreshold": 6,
+				"OffBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"OnBaseSpawnData": [
+					"AbandonedCity_Skeleton_Armor",
+					"AbandonedCity_Skeleton_Fighter"
+				],
+				"Boss": "Boss_UndeadDragon",
+				"InBaseBoss": "Boss_UndeadDragon",
+				"BossSpawnDelay": 30,
+				"SpawnCap": 200,
+				"ActiveCap": 25,
+				"SpawnLocationCap": 5,
+				"NextWave": "None",
+				"WaveTime": 1200,
+				"KillPawnNPCsOnPurgeEnd": false,
+				"WaveWeight": 1,
+				"WaveDisplayName": ""
+			}
+		],
+		"IsGlobalFallback": false,
+		"IsStartingWave": false,
+		"BlockPurgeInArea": false
+	}
+]

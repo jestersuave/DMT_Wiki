@@ -1,0 +1,1750 @@
+[
+	{
+		"RowName": "2709714",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2709715",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2709716",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2709717",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2709719",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.090000003576278687
+			}
+		]
+	},
+	{
+		"RowName": "2709712",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.090000003576278687
+			}
+		]
+	},
+	{
+		"RowName": "2709722",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.15000000596046448
+			}
+		]
+	},
+	{
+		"RowName": "2709734",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.05000000074505806
+			}
+		]
+	},
+	{
+		"RowName": "2709742",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			}
+		]
+	},
+	{
+		"RowName": "2709743",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			}
+		]
+	},
+	{
+		"RowName": "2709899",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 30
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.15000000596046448
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.15000000596046448
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.15000000596046448
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 30
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 50
+			}
+		]
+	},
+	{
+		"RowName": "2709756",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.10000000149011612
+			}
+		]
+	},
+	{
+		"RowName": "2709778",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 25
+			}
+		]
+	},
+	{
+		"RowName": "2709779",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 25
+			}
+		]
+	},
+	{
+		"RowName": "2709780",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 25
+			}
+		]
+	},
+	{
+		"RowName": "2709781",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 25
+			}
+		]
+	},
+	{
+		"RowName": "2709782",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 25
+			}
+		]
+	},
+	{
+		"RowName": "2709330",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 1000
+			}
+		]
+	},
+	{
+		"RowName": "2709847",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 20
+			}
+		]
+	},
+	{
+		"RowName": "2710934",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 75
+			}
+		]
+	},
+	{
+		"RowName": "2710935",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 25
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 1,
+				"ModificationValue": 5
+			}
+		]
+	},
+	{
+		"RowName": "2710936",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -8
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710937",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -8
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			}
+		]
+	},
+	{
+		"RowName": "2710938",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -8
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710939",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -8
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			}
+		]
+	},
+	{
+		"RowName": "2710940",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -8
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710941",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -10
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 20
+			}
+		]
+	},
+	{
+		"RowName": "2710942",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -10
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 20
+			}
+		]
+	},
+	{
+		"RowName": "2710943",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -10
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			}
+		]
+	},
+	{
+		"RowName": "2710944",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -10
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			}
+		]
+	},
+	{
+		"RowName": "2710945",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -10
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710981",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 0
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710982",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 0
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710983",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 0
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710984",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 0
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710985",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 0
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710705",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 30
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			}
+		]
+	},
+	{
+		"RowName": "2710706",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -30
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			}
+		]
+	},
+	{
+		"RowName": "2709883",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.059999998658895493
+			}
+		]
+	},
+	{
+		"RowName": "2710993",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 45
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710994",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710995",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710999",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 75
+			}
+		]
+	},
+	{
+		"RowName": "2710998",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 45
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710038",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 20,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710039",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 20,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710040",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 20,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710041",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 20,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710042",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 20,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710043",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 20,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 2
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2711033",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 30
+			}
+		]
+	},
+	{
+		"RowName": "2711034",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 30
+			}
+		]
+	},
+	{
+		"RowName": "2711035",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 30
+			}
+		]
+	},
+	{
+		"RowName": "2711036",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 30
+			}
+		]
+	},
+	{
+		"RowName": "2711037",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 30
+			}
+		]
+	},
+	{
+		"RowName": "2711038",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -10
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.15000000596046448
+			}
+		]
+	},
+	{
+		"RowName": "2711080",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": -0.10000000149011612
+			}
+		]
+	},
+	{
+		"RowName": "2711112",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 4
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			}
+		]
+	},
+	{
+		"RowName": "2711113",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 4
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			}
+		]
+	},
+	{
+		"RowName": "2711114",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 4
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			}
+		]
+	},
+	{
+		"RowName": "2711115",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 4
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			}
+		]
+	},
+	{
+		"RowName": "2711116",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 4
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			}
+		]
+	},
+	{
+		"RowName": "2710070",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710071",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710072",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710073",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710074",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": 3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710075",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710076",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710077",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710078",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2710079",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 13,
+				"ModificationValue": -3
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			}
+		]
+	},
+	{
+		"RowName": "2711071",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.079999998211860657
+			}
+		]
+	},
+	{
+		"RowName": "2711143",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 75
+			}
+		]
+	},
+	{
+		"RowName": "2709693",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			}
+		]
+	},
+	{
+		"RowName": "2710446",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.079999998211860657
+			}
+		]
+	},
+	{
+		"RowName": "2710447",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.079999998211860657
+			}
+		]
+	},
+	{
+		"RowName": "2710448",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 40
+			}
+		]
+	},
+	{
+		"RowName": "2710449",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.079999998211860657
+			}
+		]
+	},
+	{
+		"RowName": "2710450",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710451",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 25
+			}
+		]
+	},
+	{
+		"RowName": "2710452",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 31,
+				"ModificationValue": 0.20000000298023224
+			}
+		]
+	},
+	{
+		"RowName": "2710358",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710359",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2710360",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 20
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			}
+		]
+	},
+	{
+		"RowName": "2710361",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			}
+		]
+	},
+	{
+		"RowName": "2710443",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.039999999105930328
+			}
+		]
+	},
+	{
+		"RowName": "2710444",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 20
+			}
+		]
+	},
+	{
+		"RowName": "2710445",
+		"Modifications": [
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.039999999105930328
+			}
+		]
+	},
+	{
+		"RowName": "2711073",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			}
+		]
+	},
+	{
+		"RowName": "2710875",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 45
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.15000000596046448
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.15000000596046448
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.15000000596046448
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 30
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 30
+			}
+		]
+	},
+	{
+		"RowName": "2711923",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 23,
+				"ModificationValue": 30
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 5
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 30,
+				"ModificationValue": 0.039999999105930328
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 25
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 28,
+				"ModificationValue": 0.029999999329447746
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 29,
+				"ModificationValue": 15
+			}
+		]
+	},
+	{
+		"RowName": "2711928",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 22,
+				"ModificationValue": 1
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 23,
+				"ModificationValue": 1
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 27,
+				"ModificationValue": 0.11999999731779099
+			}
+		]
+	},
+	{
+		"RowName": "2711932",
+		"Modifications": [
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 22,
+				"ModificationValue": 1
+			},
+			{
+				"IsFloatStatModification": true,
+				"OperatorID": "Add",
+				"StatID": 23,
+				"ModificationValue": 1
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 6,
+				"ModificationValue": 10
+			},
+			{
+				"IsFloatStatModification": false,
+				"OperatorID": "Add",
+				"StatID": 0,
+				"ModificationValue": 25
+			}
+		]
+	}
+]

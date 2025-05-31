@@ -1,0 +1,303 @@
+[
+	{
+		"RowName": "2709000",
+		"EnchantID": 2709000,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthLight_OnHit",
+				"IntStatModifierAmount": 12,
+				"UseMultiplicationInsteadOfAddition": false
+			},
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthHeavy_OnHit",
+				"IntStatModifierAmount": -12,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709001",
+		"EnchantID": 2709001,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthLight_OnHit",
+				"IntStatModifierAmount": -12,
+				"UseMultiplicationInsteadOfAddition": false
+			},
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthHeavy_OnHit",
+				"IntStatModifierAmount": 12,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709002",
+		"EnchantID": 2709001,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "HarvestDamage",
+				"IntStatModifierAmount": 8,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709003",
+		"EnchantID": 2709003,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "MaxDurability",
+				"FloatStatModifierAmount": 4,
+				"IntStatModifierType": "MaxStackSize",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": true
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709004",
+		"EnchantID": 2709004,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthLight_OnHit",
+				"IntStatModifierAmount": 7,
+				"UseMultiplicationInsteadOfAddition": false
+			},
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthHeavy_OnHit",
+				"IntStatModifierAmount": 7,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709005",
+		"EnchantID": 2709005,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageConcussiveLightOnHit",
+				"IntStatModifierAmount": 25,
+				"UseMultiplicationInsteadOfAddition": false
+			},
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageConcussiveHeavyOnHit",
+				"IntStatModifierAmount": 10,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709006",
+		"EnchantID": 2709006,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageStaminaLight_OnHit",
+				"IntStatModifierAmount": 2,
+				"UseMultiplicationInsteadOfAddition": false
+			},
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageStaminaHeavy_OnHit",
+				"IntStatModifierAmount": 2,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709007",
+		"EnchantID": 2709007,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "EncumbranceWeight",
+				"FloatStatModifierAmount": 0.15000000596046448,
+				"IntStatModifierType": "DrinkAmount",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": true
+			},
+			{
+				"FloatStatModifierType": "MaxDurability",
+				"FloatStatModifierAmount": 0.80000001192092896,
+				"IntStatModifierType": "MaxStackSize",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": true
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709008",
+		"EnchantID": 2709008,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "MaxDurability",
+				"FloatStatModifierAmount": 2,
+				"IntStatModifierType": "MaxStackSize",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": true
+			},
+			{
+				"FloatStatModifierType": "EncumbranceWeight",
+				"FloatStatModifierAmount": 1.25,
+				"IntStatModifierType": "MaxStackSize",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": true
+			},
+			{
+				"FloatStatModifierType": "ArmourValue",
+				"FloatStatModifierAmount": 1.5,
+				"IntStatModifierType": "MaxStackSize",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": true
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709009",
+		"EnchantID": 2709009,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "ArmorPen",
+				"FloatStatModifierAmount": 0.25,
+				"IntStatModifierType": "DrinkAmount",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709832",
+		"EnchantID": 2709832,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthLight_OnHit",
+				"IntStatModifierAmount": 50,
+				"UseMultiplicationInsteadOfAddition": false
+			},
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthHeavy_OnHit",
+				"IntStatModifierAmount": 50,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709834",
+		"EnchantID": 2709834,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthLight_OnHit",
+				"IntStatModifierAmount": 75,
+				"UseMultiplicationInsteadOfAddition": false
+			},
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthHeavy_OnHit",
+				"IntStatModifierAmount": 75,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2709835",
+		"EnchantID": 2709835,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthLight_OnHit",
+				"IntStatModifierAmount": 100,
+				"UseMultiplicationInsteadOfAddition": false
+			},
+			{
+				"FloatStatModifierType": "BurnTime",
+				"FloatStatModifierAmount": 0,
+				"IntStatModifierType": "DamageHealthHeavy_OnHit",
+				"IntStatModifierAmount": 100,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2711552",
+		"EnchantID": 2711552,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "ArmorPen",
+				"FloatStatModifierAmount": 0.34999999403953552,
+				"IntStatModifierType": "DrinkAmount",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2711553",
+		"EnchantID": 2711553,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "ArmorPen",
+				"FloatStatModifierAmount": 0.64999997615814209,
+				"IntStatModifierType": "DrinkAmount",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	},
+	{
+		"RowName": "2711554",
+		"EnchantID": 2711554,
+		"RiddleOfSteelStruct": [
+			{
+				"FloatStatModifierType": "ArmorPen",
+				"FloatStatModifierAmount": 1,
+				"IntStatModifierType": "DrinkAmount",
+				"IntStatModifierAmount": 1,
+				"UseMultiplicationInsteadOfAddition": false
+			}
+		],
+		"IsARune": false
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		"RowName": "Stone2",
+		"ProjectileResourceID": 2709694,
+		"SiegeProjectileClass": "BlueprintGeneratedClass'/Game/Mods/DungeonMasterTools/Blueprints2/BP_V2_Siege_Projectile_Stone2.BP_V2_Siege_Projectile_Stone2_C'"
+	},
+	{
+		"RowName": "FlamingPot2",
+		"ProjectileResourceID": 2709696,
+		"SiegeProjectileClass": "BlueprintGeneratedClass'/Game/Mods/DungeonMasterTools/Blueprints2/BP_FlamingPot2.BP_FlamingPot2_C'"
+	}
+]
